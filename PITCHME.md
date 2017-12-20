@@ -18,9 +18,8 @@
 * fast & flexible
 * no $$
 * flexible licensing
-* governance managed through community
-* enables partnering
 * easy prototyping
+* huge ( 75M repos, 25M users ?)
 
 ---
 
