@@ -1,10 +1,25 @@
-@title[Github vs Eclipse]
+@title[Eclipse]
 
-# Git<span class="gold">Pitch</span>
+# Eclipse
 
-#### Hello World
-
+* reputation
+* we can learn a lot about governance and licensing
+* sustainability
+* governance managed through community
+* enables partnering
 
 ---
 
 
+@title[Github]
+
+# Github
+
+* fast & flexible
+* no $$
+* flexible licensing
+* governance managed through community
+* enables partnering
+* easy prototyping
+
+---
