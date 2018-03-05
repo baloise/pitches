@@ -8,8 +8,6 @@
 
 
 ---?image=img/baloise.group.svg&size=contain
-
-
 @title[Baloise Group]
 
 * Belgien
@@ -18,10 +16,23 @@
 * Schweiz
 * Baloise Bank
 
+---
+@title[Matthias Cullmann]
+
+MC stats
+
+* Organisation
+  * Group CO ist mein n+5
+  * Habe 0 direct reports und 0 CHF budget
+* Titel
+  * Wirschaftsinformatiker, Niederes Kader
+  * Competence Center Owner Software Engineering
+  * Product Owner CI/CD
+  * ~~bottle washer~~
+
 
 
 ---
-
 @title[License & contributions]
 
 ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)
@@ -31,4 +42,3 @@ To the extent possible under law, the person who associated CC0 with this work h
 
 Contribute under https://github.com/baloise/pitches/blob/WerASagtMussAuchDSagen/PITCHME.md
 
----
