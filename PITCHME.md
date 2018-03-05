@@ -7,7 +7,7 @@
 * Was hat uns geholfen?
 
 
----?image=img/baloise.group.svg&size=auto 100%
+---?image=img/baloise.group.svg&size=100% auto
 
 
 @title[Baloise Group]
