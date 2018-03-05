@@ -10,11 +10,8 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 ---?image=img/baloise.group.svg&size=contain
 @title[Baloise Group]
 
-* Belgien
-* Luxemburg
-* Deutschland
-* Schweiz
-* Baloise Bank
+---?image=img/hauptsitz.png&size=contain&color=black
+@title[Baloise Hauptsitz]
 
 ---
 @title[Matthias Cullmann]
