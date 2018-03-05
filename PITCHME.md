@@ -77,7 +77,7 @@ Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</spa
 * Production first
 * Deployments live and die
 * DEV works offline
-* <span style="font-size:large;">humans are no robots</span>
+* <span style="color:#CC0099;">humans are no robots</span>
 * Never repair a running system
 * Everything valuable has an API
 
