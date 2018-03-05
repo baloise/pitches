@@ -1,6 +1,6 @@
 @title[Wer Agile sagt muss auch DevOps sagen]
 
-# Wer Agile sagt muss auch DevOps sagen
+Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><span style="color:#FF9900">Ops</span> sagen
 
 * Wieso will ich DevOps? 
 * Baloise DevOps Geschichte ...
