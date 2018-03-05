@@ -12,13 +12,13 @@
 
 @title[Baloise Group]
 
-# Github
+* Belgien
+* Luxemburg
+* Deutschland
+* Schweiz
+* Baloise Bank
 
-* fast & flexible
-* no $$
-* flexible licensing
-* easy prototyping
-* huge ( 75M repos, 25M users ?)
+
 
 ---
 
