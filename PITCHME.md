@@ -11,7 +11,7 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 * Und was hat das alles mit Agile zu tun?
 
 
----?image=img/baloise.group.svg&size=contain
+---?image=img/baloise.group.svg&size=containn&color=white
 @title[Baloise Group]
 
 ---?image=img/hauptsitz.png&size=contain&color=black
@@ -41,9 +41,12 @@ Matthias Cullmann
 Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</span>?
 
 +++
-@title[Continuous Delivery Mantra]
+@title[Continuous Delivery ]
 
-# Continuous Delivery Mantra
+# Continuous Delivery 
+
++++
+@title[Continuous Delivery Mantra]
 
 * Everything is in version control
 * Bring Your Own Dependencies
@@ -62,8 +65,6 @@ Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</spa
 
 +++
 @title[humans are no robots]
-
-# Continuous Delivery Mantra
 
 * Everything is in version control
 * Bring Your Own Dependencies
