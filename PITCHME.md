@@ -81,12 +81,12 @@ Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</spa
 * Never repair a running system
 * Everything valuable has an API
 
+---?image=img/stop_killer_robots.jpg&size=contain&color=black
+@title[Stop Killer Robots]
+
 ---
 @title[Trash]
 
-
- https://confluence.baloisenet.com/atlassian/display/CHCICD/Continuous+Delivery+Mantra
- Humans are no robots
  Let robots do robot jobs
  Sirius Star : https://de.wikipedia.org/wiki/Sirius_Star     - alle 11 Meter ein Mitarbeiter  
  Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, gap einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
