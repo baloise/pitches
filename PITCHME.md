@@ -7,7 +7,7 @@
 * Was hat uns geholfen?
 
 
----
+---?image=img/baloise.group.svg
 
 
 @title[Baloise Group]
