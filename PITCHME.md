@@ -19,7 +19,7 @@
 ---
 @title[Matthias Cullmann]
 
-MC stats
+Matthias Cullmann
 
 * Organisation
   * Group CO ist mein n+5
@@ -30,6 +30,7 @@ MC stats
   * Product Owner CI/CD
   * ~~bottle washer~~
 
+https://github.com/culmat
 
 
 ---
