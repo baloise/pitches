@@ -24,26 +24,65 @@ Matthias Cullmann
 
 * Organisation
   * Group CO ist mein n+5
-  * Habe 0 direct reports und 0 CHF budget
+  * 0 direct reports und 0 CHF budget
 * Titel
   * Wirschaftsinformatiker, Niederes Kader
   * Competence Center Owner Software Engineering
   * Product Owner CI/CD
   * ~~bottle washer~~
-
-https://github.com/culmat
-https://baselhack.ch
-http://baselone.ch
+* Zum nachlesen
+  * https://github.com/culmat
+  * https://baselhack.ch
+  * http://baselone.ch
 
 ---
 @title[Wieso DevOps?]
 
 Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</span>?
 
++++
+@title[Continuous Delivery Mantra]
+
+# Continuous Delivery Mantra
+
+* Everything is in version control
+* Bring Your Own Dependencies
+* Automatic Update is the default
+* Every Change is released
+* Done means released
+* Build exactly once
+* Don't build it your way
+* Slow builds fail
+* Production first
+* Deployments live and die
+* DEV works offline
+* humans are no robots
+* Never repair a running system
+* Everything valuable has an API
+
++++
+@title[humans are no robots]
+
+# Continuous Delivery Mantra
+
+* Everything is in version control
+* Bring Your Own Dependencies
+* Automatic Update is the default
+* Every Change is released
+* Done means released
+* Build exactly once
+* Don't build it your way
+* Slow builds fail
+* Production first
+* Deployments live and die
+* DEV works offline
+* <span style="font-size:large;">humans are no robots</span>
+* Never repair a running system
+* Everything valuable has an API
+
 ---
 @title[Trash]
 
-Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
 
  https://confluence.baloisenet.com/atlassian/display/CHCICD/Continuous+Delivery+Mantra
  Humans are no robots
