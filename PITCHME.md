@@ -10,11 +10,66 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 * Das haben wir doch vor 20 Jahren schon gemacht nur hiess es damals anders! 
 * Und was hat das alles mit Agile zu tun?
 
----?image=img/inefficient.organisation.svg&size=contain&color=white
+
+---
+@title[Effizienz 1]
+
+# How to build an inefficient organisation
+
++++?image=img/inefficient.organisation9.svg&size=contain&color=white
 @title[Effizienz 2]
 
----?image=img/antiyoy.jpg&size=contain&color=black
++++?image=img/inefficient.organisation8.svg&size=contain&color=white
+@title[Effizienz 4]
+
++++?image=img/inefficient.organisation8.svg&size=contain&color=white
+@title[Effizienz 5]
+
++++?image=img/inefficient.organisation7.svg&size=contain&color=white
+@title[Effizienz 6]
+
++++?image=img/inefficient.organisation7.5.svg&size=contain&color=white
+@title[Effizienz 7.5]
+
++++?image=img/v-engine.jpg&size=contain&color=black
+@title[Effizienz V]
+
++++?image=img/inefficient.organisation6.svg&size=contain&color=white
+@title[Effizienz 7]
+
++++?image=img/inefficient.organisation5.svg&size=contain&color=white
+@title[Effizienz 8]
+
++++?image=img/inefficient.organisation4.svg&size=contain&color=white
+@title[Effizienz 9]
+
++++?image=img/inefficient.organisation3.svg&size=contain&color=white
+@title[Effizienz 10]
+
++++?image=img/inefficient.organisation2.svg&size=contain&color=white
+@title[Effizienz 11]
+
++++?image=img/inefficient.organisation1.svg&size=contain&color=white
+@title[Effizienz 12]
+
++++?image=img/inefficient.organisation0.svg&size=contain&color=#373936
+@title[Effizienz 13]
+
++++?image=img/antiyoy.jpg&size=contain&color=#373936
 @title[Antijoy]
+
++++
+@title[Conways law]
+
+# Conways law
+
+"organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
+
++++?image=img/inefficient.organisation-1.svg&size=contain&color=white
+@title[Effizienz -1]
+
++++?image=img/inefficient.organisation-2.svg&size=contain&color=white
+@title[Effizienz -2]
 
 ---?image=img/baloise.group.svg&size=contain&color=white
 @title[Baloise Group]
@@ -95,12 +150,6 @@ Let robots do robot jobs
 Note:
 Let robots do robot jobs
 Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
-
-+++
-@title[Effizienz 1]
-
-# How to build an inefficient organisation
-
 
 ---
 @title[Trash]
