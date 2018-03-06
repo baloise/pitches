@@ -214,9 +214,6 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/scrum_master_as_a_service.svg&size=contain&color=white
 @title[demonoply]
 
-+++?image=img/1openfriday.png&size=contain&color=black
-@title[Open Friday]
-
 # scrum master as a service
 
 +++?image=img/4ears.svg&size=contain&color=#a3cdfb
@@ -228,6 +225,16 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 Notes: 
 
 100 x Quantensprung, Züge 100 x schneller 
+
+---
+@title[Fragen]
+
+# Fragen?
+
+---
+@title[Credits]
+
+## Credits
 
 ---
 @title[Lese-Empfehlungen]
