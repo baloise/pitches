@@ -203,7 +203,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 ---
 @title[Erfolgsfaktoren] 
 
-#Erfolgsfaktoren
+# Erfolgsfaktoren
 
 +++?image=img/demonoply.jpg&size=contain&color=white
 @title[demonoply]
@@ -217,7 +217,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/1openfriday.png&size=contain&color=black
 @title[Open Friday]
 
-#scrum master as a service
+# scrum master as a service
 
 +++?image=img/4ears.svg&size=contain&color=#a3cdfb
 @title[4 ears]
