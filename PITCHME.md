@@ -92,9 +92,10 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/inefficient.organisation-2.svg&size=contain&color=white
 @title[Effizienz -2]
 
-+++
++++?image=img/adam_smith_light.jpg
 @title[Ineffiziente Spezialisten]
 
+# Ineffiziente Spezialisten
 * halbwertszeit des Wissens
 * mensch kann nicht das selbe immer gut machen-> zitat Rocardo Semmler tap into the reservoir
 
@@ -124,6 +125,10 @@ Matthias Cullmann
   * https://github.com/culmat
   * https://baselhack.ch
   * http://baselone.ch
+
+Note:
+
+Mal wieder in den Arbeitsvertrag schauen ;-)
 
 ---
 @title[Wieso DevOps?]
