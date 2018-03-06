@@ -10,8 +10,10 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 * Das haben wir doch vor 20 Jahren schon gemacht nur hiess es damals anders! 
 * Und was hat das alles mit Agile zu tun?
 
+---?image=img/inefficient.organisation.svg&size=contain&color=white
+@title[Effizienz 2]
 
----?image=img/baloise.group.svg&size=containn&color=white
+---?image=img/baloise.group.svg&size=contain&color=white
 @title[Baloise Group]
 
 ---?image=img/hauptsitz.png&size=contain&color=black
@@ -96,70 +98,6 @@ Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf,
 
 # How to build an inefficient organisation
 
-+++
-@title[Effizienz 2]
-
-<table>
-  <tr>
-    <th><br></th>
-    <th colspan="7">Process</th>
-  </tr>
-  <tr>
-    <td rowspan="6">Technology</td>
-    <td></td>
-    <td>BE</td>
-    <td>AR</td>
-    <td>DS</td>
-    <td>IMPL</td>
-    <td>TST</td>
-    <td>OP</td>
-  </tr>
-  <tr>
-    <td>UI</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>DB</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>BCK</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>DB</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>OS</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 ---
 @title[Trash]
