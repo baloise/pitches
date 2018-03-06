@@ -16,20 +16,20 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 
 # How to build an inefficient organisation
 
+Note:
+lets build a system
+
 +++?image=img/inefficient.organisation9.svg&size=contain&color=white
 @title[Effizienz 2]
 
 +++?image=img/inefficient.organisation8.svg&size=contain&color=white
 @title[Effizienz 4]
 
-+++?image=img/inefficient.organisation8.svg&size=contain&color=white
-@title[Effizienz 5]
-
-+++?image=img/inefficient.organisation7.svg&size=contain&color=white
-@title[Effizienz 6]
-
 +++?image=img/inefficient.organisation7.5.svg&size=contain&color=white
 @title[Effizienz 7.5]
+
++++?image=img/inefficient.organisation7.svg&size=contain&color=white
+@title[Effizienz 7]
 
 +++?image=img/v-engine.jpg&size=contain&color=black
 @title[Effizienz V]
