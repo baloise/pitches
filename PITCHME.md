@@ -59,11 +59,29 @@ lets build a system
 @title[Antijoy]
 
 +++
-@title[Conways law]
+@title[Zutaten ineffizienz]
 
+Gewaltentrennung
+Schichten
+Schnittstellen
+
++++
 # Conways law
 
 "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
+
++++
+@title[Which kind of system do you want?]
+
+Kapselung
+Container
+Hohe Kohäsion
+Lose Kopplung
+Microservices
+Agentensysteme
+
+Note:
+Agenten = Hohe Verantwortung, eigenständigkeit
 
 +++?image=img/scrum.jpg&size=contain&color=black
 @title[Scrum rescue me]
@@ -73,6 +91,15 @@ lets build a system
 
 +++?image=img/inefficient.organisation-2.svg&size=contain&color=white
 @title[Effizienz -2]
+
++++
+@title[Ineffiziente Spezialisten]
+
+* halbwertszeit des Wissens
+* mensch kann nicht das selbe immer gut machen-> zitat Rocardo Semmler tap into the reservoir
+
+(langeweile vs motivation) 
+
 
 ---?image=img/baloise.group.svg&size=contain&color=white
 @title[Baloise Group]
