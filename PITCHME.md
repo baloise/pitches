@@ -11,10 +11,89 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 * Und was hat das alles mit Agile zu tun?
 
 
+---?image=img/baloise.group.svg&size=contain&color=white
+@title[Baloise Group]
+
+---?image=img/hauptsitz.png&size=contain&color=black
+@title[Baloise Hauptsitz]
+
 ---
-@title[Timeline]
+@title[Matthias Cullmann]
 
+Matthias Cullmann
 
+* Organisation
+  * Group CO ist mein n+5
+  * 0 direct reports und 0 CHF budget
+* Titel
+  * Wirschaftsinformatiker, Niederes Kader
+  * Competence Center Owner Software Engineering
+  * Product Owner CI/CD
+  * ~~bottle washer~~
+* Inhalt
+  * https://github.com/culmat
+  * https://baselhack.ch
+  * http://baselone.ch
+
+Note:
+
+Mal wieder in den Arbeitsvertrag schauen ;-)
+
+---
+@title[Wieso DevOps?]
+
+Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</span>?
+
++++
+@title[Continuous Delivery ]
+
+# Continuous Delivery 
+
++++
+@title[Continuous Delivery Mantra]
+
+* Everything is in version control
+* Bring Your Own Dependencies
+* Automatic Update is the default
+* Every Change is released
+* Done means released
+* Build exactly once
+* Don't build it your way
+* Slow builds fail
+* Production first
+* Deployments live and die
+* DEV works offline
+* humans are no robots
+* Never repair a running system
+* Everything valuable has an API
+
++++
+@title[humans are no robots]
+
+* Everything is in version control
+* Bring Your Own Dependencies
+* Automatic Update is the default
+* Every Change is released
+* Done means released
+* Build exactly once
+* Don't build it your way
+* Slow builds fail
+* Production first
+* Deployments live and die
+* DEV works offline
+* <span style="color:#CC0099;">humans are no robots</span>
+* Never repair a running system
+* Everything valuable has an API
+
+Note:
+Let robots do robot jobs
+
++++?image=img/stop_killer_robots.jpg&size=contain&color=black
+@title[Stop Killer Robots]
+
+Note:
+Let robots do robot jobs
+Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
 
 ---
 @title[Effizienz 1]
@@ -106,118 +185,57 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 (langeweile vs motivation) 
 
-
----?image=img/baloise.group.svg&size=contain&color=white
-@title[Baloise Group]
-
----?image=img/hauptsitz.png&size=contain&color=black
-@title[Baloise Hauptsitz]
-
----
-@title[Matthias Cullmann]
-
-Matthias Cullmann
-
-* Organisation
-  * Group CO ist mein n+5
-  * 0 direct reports und 0 CHF budget
-* Titel
-  * Wirschaftsinformatiker, Niederes Kader
-  * Competence Center Owner Software Engineering
-  * Product Owner CI/CD
-  * ~~bottle washer~~
-* Inhalt
-  * https://github.com/culmat
-  * https://baselhack.ch
-  * http://baselone.ch
-
-Note:
-
-Mal wieder in den Arbeitsvertrag schauen ;-)
-
----
-@title[Wieso DevOps?]
-
-Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</span>?
-
-+++
-@title[Continuous Delivery ]
-
-# Continuous Delivery 
-
-+++
-@title[Continuous Delivery Mantra]
-
-* Everything is in version control
-* Bring Your Own Dependencies
-* Automatic Update is the default
-* Every Change is released
-* Done means released
-* Build exactly once
-* Don't build it your way
-* Slow builds fail
-* Production first
-* Deployments live and die
-* DEV works offline
-* humans are no robots
-* Never repair a running system
-* Everything valuable has an API
-
-+++
-@title[humans are no robots]
-
-* Everything is in version control
-* Bring Your Own Dependencies
-* Automatic Update is the default
-* Every Change is released
-* Done means released
-* Build exactly once
-* Don't build it your way
-* Slow builds fail
-* Production first
-* Deployments live and die
-* DEV works offline
-* <span style="color:#CC0099;">humans are no robots</span>
-* Never repair a running system
-* Everything valuable has an API
-
-Note:
-Let robots do robot jobs
-
-+++?image=img/stop_killer_robots.jpg&size=contain&color=black
-@title[Stop Killer Robots]
-
-Note:
-Let robots do robot jobs
-Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
-
-
  ---
 @title[Geschichte]
  
- - Trennung  ITCH / CIT
- - Einführung Scrum ITCH
- - Git Self Service
- - Git Owner darf PROD deployen
- - JIRA as Release Number
- - PROD first
- -- Comet deploy anektode
- - WLS -> JBOSS Migration
- - CICD team
+ 2009 Trennung  ITCH / CIT
+ 2010 Einführung Scrum ITCH
+ 2013 04 - Git Self Service
+ 2015 Git Owner darf PROD deployen
+ 2015 JIRA as Release Number
+ 2016  PROD first erste vollautomatische Deploymeent Pipeline
+ 2017 WLS -> JBOSS Migration
+ 2017 11 Fachkollege kofiguriert Applikation im Excel über Gitea Web UI
+ 2017 12 CICD team
+ 2018 01 CIT Ansible Schulung ITCH Kollegen sind eingeladen
+ 2018 Einführung Container Platform
  
  ---
 @title[Erfolgsfaktoren] 
- 
-- Wir werden nicht geköpft ( demonoply)
-- Open X Day
-- Scrum Master as a service
-- Tools : container, 100 x Quantensprung, Züge 100 x schneller 
-- Buch
-- Vier Ohren
 
-Rückschläge
- ....
+#Erfolgsfaktoren
 
++++?image=img/demonoply.jpg&size=contain&color=white
+@title[demonoply]
+
++++?image=img/1openfriday.png&size=contain&color=black
+@title[Open Friday]
+
++++?image=img/scrum_master_as_a_service.svg&size=contain&color=white
+@title[demonoply]
+
++++?image=img/1openfriday.png&size=contain&color=black
+@title[Open Friday]
+
+#scrum master as a service
+
++++?image=img/4ears.svg&size=contain&color=#a3cdfb
+@title[4 ears]
+
++++?image=img/container.jpg&size=contain&color=black
+@title[container]
+
+Notes: 
+
+100 x Quantensprung, Züge 100 x schneller 
+
+---
+@title[Lese-Empfehlungen]
+
+## Lese-Empfehlungen
+
+* https://www.amazon.de/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+* https://speakerdeck.com/leandus/thank-god-its-open-friday-mit-corinna-baldauf
 
 ---
 @title[License & contributions]
