@@ -185,7 +185,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 (langeweile vs motivation) 
 
- ---
+---
 @title[Geschichte]
  
  2009 Trennung  ITCH / CIT
@@ -200,7 +200,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
  2018 01 CIT Ansible Schulung ITCH Kollegen sind eingeladen
  2018 Einführung Container Platform
  
- ---
+---
 @title[Erfolgsfaktoren] 
 
 #Erfolgsfaktoren
