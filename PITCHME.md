@@ -28,11 +28,11 @@ lets build a system
 +++?image=img/inefficient.organisation7.5.svg&size=contain&color=white
 @title[Effizienz 7.5]
 
-+++?image=img/inefficient.organisation7.svg&size=contain&color=white
-@title[Effizienz 7]
-
 +++?image=img/v-engine.jpg&size=contain&color=black
 @title[Effizienz V]
+
++++?image=img/inefficient.organisation7.svg&size=contain&color=white
+@title[Effizienz 7]
 
 +++?image=img/inefficient.organisation6.svg&size=contain&color=white
 @title[Effizienz 7]
