@@ -65,6 +65,9 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 
 "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
 
++++?image=img/scrum.jpg&size=contain&color=black
+@title[Scrum rescue me]
+
 +++?image=img/inefficient.organisation-1.svg&size=contain&color=white
 @title[Effizienz -1]
 
@@ -181,6 +184,7 @@ Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf,
 - Scrum Master as a service
 - Tools : container, 100 x Quantensprung, Züge 100 x schneller 
 - Buch
+- Vier Ohren
 
 Rückschläge
  ....
