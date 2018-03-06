@@ -13,6 +13,9 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 ---?image=img/inefficient.organisation.svg&size=contain&color=white
 @title[Effizienz 2]
 
+---?image=img/antijoy.jpg&size=contain&color=black
+@title[Antijoy]
+
 ---?image=img/baloise.group.svg&size=contain&color=white
 @title[Baloise Group]
 
