@@ -30,7 +30,7 @@ Matthias Cullmann
   * Competence Center Owner Software Engineering
   * Product Owner CI/CD
   * ~~bottle washer~~
-* Zum nachlesen
+* Inhalt
   * https://github.com/culmat
   * https://baselhack.ch
   * http://baselone.ch
@@ -81,22 +81,98 @@ Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</spa
 * Never repair a running system
 * Everything valuable has an API
 
----?image=img/stop_killer_robots.jpg&size=contain&color=black
+Note:
+Let robots do robot jobs
+
++++?image=img/stop_killer_robots.jpg&size=contain&color=black
 @title[Stop Killer Robots]
+
+Note:
+Let robots do robot jobs
+Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
+
++++
+@title[Effizienz 1]
+
+# How to build an inefficient organisation
+
++++
+@title[Effizienz 2]
+
+<table>
+  <tr>
+    <th><br></th>
+    <th colspan="7">Process</th>
+  </tr>
+  <tr>
+    <td rowspan="6">Technology</td>
+    <td></td>
+    <td>BE</td>
+    <td>AR</td>
+    <td>DS</td>
+    <td>IMPL</td>
+    <td>TST</td>
+    <td>OP</td>
+  </tr>
+  <tr>
+    <td>UI</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BCK</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 @title[Trash]
 
- Let robots do robot jobs
- Sirius Star : https://de.wikipedia.org/wiki/Sirius_Star     - alle 11 Meter ein Mitarbeiter  
- Artificial intelligence -> DAO, Killerrobots -> Rechenzentrum, gap einkauf, verkauf, pricing ( werbung ), zertifizierungen. 
  
  
  Vertikal schneiden , containerizieren
  effizienz verbessern - weniger externe abhängigkeiten, besserer rückbau
  
+ ---
+@title[Geschichte]
+
  
-Geschichte 
  - Trennung  ITCH / CIT
  - Einführung Scrum ITCH
  - Git Self Service
@@ -107,9 +183,9 @@ Geschichte
  - WLS -> JBOSS Migration
  - CICD team
  
+ ---
+@title[Erfolgsfaktoren] 
  
-Erfolgsfaktoren
-
 - Wir werden nicht geköpft ( demonoply)
 - Open X Day
 - Scrum Master as a service
