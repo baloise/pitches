@@ -9,9 +9,7 @@
 Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen?<br/> 
 Wer will das? <br/>
 Und dürfen die das überhaupt? <br/>
-Das geht doch nur in StartUps und nicht in der Baloise Group! <br/>
 Wie kommt man zu einem DevOps – Team? <br/>
-Das haben wir doch vor 20 Jahren schon gemacht nur hiess es damals anders! <br/>
 Und was hat das alles mit Agile zu tun?<br/>
 </div>
 
