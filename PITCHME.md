@@ -186,7 +186,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 (langeweile vs motivation) 
 
 ---
-@title[Geschichte]?image=img/book-wood-old-wall-lumber-education-939285-pxhere.com.jpg&size=contain&color=black
+@title[Geschichte]?image=img/geschichte.jpg&size=contain&color=black
 
 # Ein Blick zurück
 
