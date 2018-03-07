@@ -185,10 +185,10 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 (langeweile vs motivation) 
 
----?image=img/geschichte.jpg&size=contain&color=black
+---?image=img/desk-notebook-watch-table-book-wood-1293599-pxhere.com.jpg&size=contain&color=black
 @title[Geschichte]
 
-# Ein Blick zurück
+# Reisetagebuch
 
 +++?image=img/timeline2017.1.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
