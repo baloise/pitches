@@ -4,9 +4,13 @@
 .ops {
 	color:#FF9900;
 }
+.bolder {
+	font-weight: bolder
+}
 #title-footer {
 	background-color: rgba(0, 138, 201, 0.1);
 }
+
 
 /**
  * White theme for reveal.js. This is the opposite of the 'black' theme.

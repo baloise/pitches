@@ -1,6 +1,10 @@
 @title[Wer Agile sagt muss auch DevOps sagen]
 
-Wer <b>A</b>gile sagt muss auch <span class="dev"><b>D</b>ev</span><span class="ops">Ops</span> sagen
+## Wer 
+# <span class="bolder">A</span>gile 
+## sagt muss auch 
+# <span class="dev"><span class="bolder">D</span>ev</span><span class="ops">Ops</span> 
+## sagen
 
 * Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
 * Wer will das? 
