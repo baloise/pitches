@@ -300,6 +300,7 @@ Note:
 ## Lese-Empfehlungen
 
 * https://www.amazon.de/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+* https://www.amazon.com/Seven-Day-Weekend-Ricardo-Semler/dp/0099425238
 * https://speakerdeck.com/leandus/thank-god-its-open-friday-mit-corinna-baldauf
 
 ---
