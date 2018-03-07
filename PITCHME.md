@@ -219,7 +219,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 @title[PROD First]
 2016
 # PROD First
-vollautomatische Deploymeent Pipeline
+vollautomatische Deployment Pipeline
  
 +++?image=img/timeline2017.1.svg&size=contain&color=white
 @title[Appserver Migration]
@@ -229,7 +229,8 @@ vollautomatische Deploymeent Pipeline
 +++?image=img/timeline2017.2.svg&size=contain&color=white
 @title[Fachbereich PROD first]
 2017.11
-# Fachbereich PROD first
+# PROD first
+# Fachbereich
 
 +++?image=img/timeline2017.3.svg&size=contain&color=white
 @title[CICD team]
@@ -239,20 +240,21 @@ vollautomatische Deploymeent Pipeline
 +++?image=img/timeline2018.1.svg&size=contain&color=white
 @title[CIT Ansible Schulung]
 2018.01
-# CIT Ansible Schulung
+# Ansible Schulung
+# CIT
 ITCH Kollegen sind eingeladen
 
 +++?image=img/timeline2018.2.svg&size=contain&color=white
-@title[Einführung Container Platform]
+@title[Container Platform]
 2018
-# Einführung Container Platform
+# Container Platform
 
 ---
 @title[Erfolgsfaktoren] 
 
 # Erfolgsfaktoren
 
-+++?image=img/demonoply.jpg&size=contain&color=white
++++?image=img/chophead.svg&size=contain&color=white
 @title[demonoply]
 
 +++?image=img/1openfriday.png&size=contain&color=black
