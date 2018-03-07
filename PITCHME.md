@@ -24,23 +24,23 @@ Und was hat das alles mit Agile zu tun?
 
 Matthias Cullmann
 
-<table>
+<table style="font-size:60%;">
   <tr>
-    <th><span class="dev">Organisation</span></th>
-    <td>Group CO ist mein n+5<br/>0 direct reports und 0 CHF budget</td> 
+    <th style="border-bottom: none;"><span class="dev">Organisation</span></th>
+    <td style="border-bottom: none;">Group CO ist mein n+5<br/>0 direct reports und 0 CHF budget</td> 
   </tr>
  
   <tr class="fragment">
-    <th>Titel</th>
-    <td>Wirschaftsinformatiker, Niederes Kader<br/>
+    <th style="border-bottom: none;">Titel</th>
+    <td style="border-bottom: none;">Wirschaftsinformatiker, Niederes Kader<br/>
     Competence Center Owner Software Engineering<br/>
     Product Owner CI/CD<br/>
     <strike>bottle washer</strike></td> 
   </tr>
  
   <tr class="fragment">
-    <th>Und sonst</th>
-    <td>https://github.com/culmat<br/>
+    <th style="border-bottom: none;">Und sonst</th>
+    <td style="border-bottom: none;">https://github.com/culmat<br/>
   https://baselhack.ch<br/>
   http://baselone.ch</td> 
   </tr>
