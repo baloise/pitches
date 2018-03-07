@@ -192,15 +192,18 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 +++?image=img/timeline2009.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
-# 2009 Trennung  ITCH / CIT
+2009
+# Trennung  ITCH / CIT
  
 +++?image=img/timeline2010.svg&size=contain&color=white
 @title[Einführung Scrum ITCH]
-# 2010 Einführung Scrum ITCH
+2010
+# Einführung Scrum ITCH
 
 +++?image=img/timeline2013.svg&size=contain&color=white
 @title[Git Self Service]
-# 2013.04  Git Self Service
+2013.04
+# Git Self Service
 
 +++?image=img/timeline2015.1.svg&size=contain&color=white
 @title[Git Owner darf PROD deployen]
