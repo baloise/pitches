@@ -11,8 +11,12 @@
 	background-color: rgba(0, 138, 201, 0.1);
 }
 .backDiag {
-	transform: rotate(-45deg);
-	opacity: 0.5;
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 10%;
+    top: 10%;
 }
 
 /**
