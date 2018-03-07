@@ -22,7 +22,7 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 
 Matthias Cullmann
 
-* Organisation
+* <span style="color:#CC0099">Organisation</span>
   * Group CO ist mein n+5
   * 0 direct reports und 0 CHF budget
 * Titel
