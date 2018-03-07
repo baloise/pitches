@@ -31,37 +31,23 @@ Matthias Cullmann
   </tr>
  
   <tr class="fragment">
-    <th><span class="dev">Organisation</span></th>
-    <td>Group CO ist mein n+5<br/>0 direct reports und 0 CHF budget</td> 
+    <th>Titel</th>
+    <td>Wirschaftsinformatiker, Niederes Kader<br/>
+    Competence Center Owner Software Engineering<br/>
+    Product Owner CI/CD<br/>
+    <strike>bottle washer</strike></td> 
   </tr>
  
   <tr class="fragment">
-    <th><span class="dev">Organisation</span></th>
-    <td>Group CO ist mein n+5<br/>0 direct reports und 0 CHF budget</td> 
+    <th>Und sonst</th>
+    <td>https://github.com/culmat<br/>
+  https://baselhack.ch<br/>
+  http://baselone.ch</td> 
   </tr>
 
 </table>
 
----
-@title[Matthias Cullmann]
-
-Matthias Cullmann
-
-* <span class="dev">Organisation</span>
-  * Group CO ist mein n+5
-  * 0 direct reports und 0 CHF budget
-* Titel
-  * Wirschaftsinformatiker, Niederes Kader
-  * Competence Center Owner Software Engineering
-  * Product Owner CI/CD
-  * ~~bottle washer~~
-* Inhalt
-  * https://github.com/culmat
-  * https://baselhack.ch
-  * http://baselone.ch
-
 Note:
-
 Mal wieder in den Arbeitsvertrag schauen ;-)
 
 ---
