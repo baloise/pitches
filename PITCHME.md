@@ -185,8 +185,8 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 (langeweile vs motivation) 
 
----
-@title[Geschichte]?image=img/geschichte.jpg&size=contain&color=black
+---?image=img/geschichte.jpg&size=contain&color=black
+@title[Geschichte]
 
 # Ein Blick zurück
 
