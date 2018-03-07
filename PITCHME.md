@@ -1,6 +1,6 @@
 @title[Wer Agile sagt muss auch DevOps sagen]
 
-Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><span style="color:#FF9900">Ops</span> sagen
+Wer <b>A</b>gile sagt muss auch <span class="dev"><b>D</b>ev</span><span style="color:#FF9900">Ops</span> sagen
 
 * Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
 * Wer will das? 
@@ -22,7 +22,7 @@ Wer <b>A</b>gile sagt muss auch <span style="color:#CC0099"><b>D</b>ev</span><sp
 
 Matthias Cullmann
 
-* <span style="color:#CC0099">Organisation</span>
+* <span class="dev">Organisation</span>
   * Group CO ist mein n+5
   * 0 direct reports und 0 CHF budget
 * Titel
@@ -42,7 +42,7 @@ Mal wieder in den Arbeitsvertrag schauen ;-)
 ---
 @title[Wieso DevOps?]
 
-Wieso <span style="color:#CC0099">Dev</span><span style="color:#FF9900">Ops</span>?
+Wieso <span class="dev">Dev</span><span style="color:#FF9900">Ops</span>?
 
 +++
 @title[Continuous Delivery ]
@@ -193,7 +193,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/timeline2009.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
 2009
-# Trennung <span style="color:#CC0099">ITCH</span> / CIT
+# Trennung <span class="dev">ITCH</span> / CIT
  
 +++?image=img/timeline2010.svg&size=contain&color=white
 @title[Einführung Scrum ITCH]
