@@ -166,12 +166,13 @@ lets build a system
 +++
 @title[Which kind of system do you want?]
 
-Kapselung
-Container
-Hohe Kohäsion
-Lose Kopplung
-Microservices
-Agentensysteme
+
+* Kapselung
+* Container 
+* Hohe Kohäsion
+* Lose Kopplung 
+* Microservices 
+* Agentensysteme
 
 Note:
 Agenten = Hohe Verantwortung, eigenständigkeit
@@ -192,14 +193,12 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/halbwertszeit.svg&size=contain&color=white
 @title[Halbwertszeit des Wissens]
 
-+++?image=img/halbwertszeit.svg&size=contain&color=white
++++
 @title[Abnutzung]
 
-"But first me must acknowledge that it's human nature to lose interest in anything after a time...
-People cannot be passionate about doing the same thing over and over."
-- Ricardo Semler
-
-(langeweile vs motivation) 
+<p><i>"But first me must acknowledge that it's human nature to lose interest in anything after a time...
+People cannot be passionate about doing the same thing over and over."</i></p>
+<span style="text-align: right;width:100%;">Ricardo Semler<span>
 
 ---?image=img/desk-notebook-watch-table-book-wood-1293599-pxhere.com.jpg&size=contain&color=black
 @title[Geschichte]
