@@ -22,6 +22,32 @@ Und was hat das alles mit Agile zu tun?
 ---
 @title[Matthias Cullmann]
 
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+---
+@title[Matthias Cullmann]
+
 Matthias Cullmann
 
 * <span class="dev">Organisation</span>
