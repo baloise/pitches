@@ -176,12 +176,19 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/inefficient.organisation-2.svg&size=contain&color=white
 @title[Effizienz -2]
 
-+++?image=img/adam_smith_light.svg&size=contain&position=left
++++?image=img/adam_smith_light.svg&size=contain&color=white
 @title[Ineffiziente Spezialisten]
-
 # Ineffiziente Spezialisten
-* halbwertszeit des Wissens
-* mensch kann nicht das selbe immer gut machen-> zitat Rocardo Semmler tap into the reservoir
+
++++?image=img/halbwertszeit.svg&size=contain&color=white
+@title[Halbwertszeit des Wissens]
+
++++?image=img/halbwertszeit.svg&size=contain&color=white
+@title[Abnutzung]
+
+"But first me must acknowledge that it's human nature to lose interest in anything after a time...
+People cannot be passionate about doing the same thing over and over."
+- Ricardo Semler
 
 (langeweile vs motivation) 
 
