@@ -5,19 +5,11 @@
 ## sagt muss auch 
 # <span class="dev"><span class="bolder">D</span>ev</span><span class="ops">Ops</span> 
 ## sagen
-<div class="backDiag1">
+<div class="backDiag">
 Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen?<br/> 
-</div>
-<div class="backDiag2">
 Wer will das? <br/>
-</div>
-<div class="backDiag3">
 Und dürfen die das überhaupt? <br/>
-</div>
-<div class="backDiag4">
 Wie kommt man zu einem DevOps – Team? <br/>
-</div>
-<div class="backDiag5">
 Und was hat das alles mit Agile zu tun?<br/>
 </div>
 
