@@ -156,7 +156,7 @@ lets build a system
 +++
 @title[Zutaten ineffizienz]
 
-`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+'$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$'
 
 +++
 # Conways law
