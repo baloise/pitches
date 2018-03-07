@@ -18,6 +18,47 @@
     left: 10%;
     top: 10%;
 }
+.backDiag1 {
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
+.backDiag2 {
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 15%;
+    top: 25%;
+}
+.backDiag3 {
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+}
+.backDiag4 {
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 35%;
+    top: 65%;
+}
+
+.backDiag4 {
+	transform: rotate(-30deg);
+	opacity: 0.1;
+    z-index: -1;
+    position: absolute;
+    left: 55%;
+    top: 70%;
+}
 
 /**
  * White theme for reveal.js. This is the opposite of the 'black' theme.
