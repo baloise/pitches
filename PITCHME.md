@@ -196,8 +196,8 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++
 @title[Abnutzung]
 
-<p><i>"But first me must acknowledge that it's human nature to lose interest in anything after a time...
-People cannot be passionate about doing the same thing over and over."</i></p>
+<p><i>"But first me must acknowledge that it's human nature to lose interest in anything after a time ...
+people cannot be passionate about doing the same thing over and over."</i></p>
 <span style="text-align: right;width:100%;">Ricardo Semler<span>
 
 ---?image=img/desk-notebook-watch-table-book-wood-1293599-pxhere.com.jpg&size=contain&color=black
@@ -208,7 +208,8 @@ People cannot be passionate about doing the same thing over and over."</i></p>
 +++?image=img/timeline2009.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
 2009
-# Trennung <span class="dev">ITCH</span> / <span class="ops">CIT</span>
+# Trennung 
+# <span class="dev">ITCH</span> / <span class="ops">CIT</span>
  
 +++?image=img/timeline2010.svg&size=contain&color=white
 @title[Einführung Scrum ITCH]
@@ -292,15 +293,10 @@ Note:
 
 100 x Quantensprung, Züge 100 x schneller 
 
----
+---?image=img/fragen.jpg&size=contain&color=black
 @title[Fragen]
 
 # Fragen?
-
----
-@title[Credits]
-
-## Credits
 
 ---
 @title[Lese-Empfehlungen]
