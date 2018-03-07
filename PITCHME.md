@@ -13,12 +13,6 @@ Wie kommt man zu einem DevOps – Team? <br/><br/>
 Und was hat das alles mit Agile zu tun?
 </div>
 
----?image=img/baloise.group.svg&size=contain&color=white
-@title[Baloise Group]
-
----?image=img/hauptsitz.png&size=contain&color=black
-@title[Baloise Hauptsitz]
-
 ---
 @title[Matthias Cullmann]
 
@@ -49,6 +43,12 @@ Matthias Cullmann
 
 Note:
 Mal wieder in den Arbeitsvertrag schauen ;-)
+
+---?image=img/baloise.group.svg&size=contain&color=white
+@title[Baloise Group]
+
+---?image=img/hauptsitz.png&size=contain&color=black
+@title[Baloise Hauptsitz]
 
 ---
 @title[Wieso DevOps?]
