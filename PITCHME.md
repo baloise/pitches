@@ -6,11 +6,11 @@
 # <span class="dev"><span class="bolder">D</span>ev</span><span class="ops">Ops</span> 
 ## sagen
 <div class="backDiag">
-Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen?<br/> 
-Wer will das? <br/>
-Und dürfen die das überhaupt? <br/>
-Wie kommt man zu einem DevOps – Team? <br/>
-Und was hat das alles mit Agile zu tun?<br/>
+Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen?<br/><br/> 
+Wer will das? <br/><br/>
+Und dürfen die das überhaupt? <br/><br/>
+Wie kommt man zu einem DevOps – Team? <br/><br/>
+Und was hat das alles mit Agile zu tun?
 </div>
 
 ---?image=img/baloise.group.svg&size=contain&color=white
