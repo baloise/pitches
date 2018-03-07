@@ -207,39 +207,45 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 
 +++?image=img/timeline2015.1.svg&size=contain&color=white
 @title[Git Owner darf PROD deployen]
-# 2015 Git Owner darf PROD deployen
+2015
+# Git Owner darf PROD deployen
 
 +++?image=img/timeline2015.2.svg&size=contain&color=white
 @title[JIRA as Release Number]
-# 2015 JIRA as Release Number
+2015
+# JIRA as Release Number
  
 +++?image=img/timeline2016.svg&size=contain&color=white
 @title[PROD First]
-# 2016 PROD First
+2016
+# PROD First
 vollautomatische Deploymeent Pipeline
  
 +++?image=img/timeline2017.1.svg&size=contain&color=white
 @title[Appserver Migration]
-# 2017 Appserver Migration
+2017
+# Appserver Migration
 
 +++?image=img/timeline2017.2.svg&size=contain&color=white
 @title[Fachbereich PROD first]
-
-# 2017.11 Fachbereich PROD first
+2017.11
+# Fachbereich PROD first
 
 +++?image=img/timeline2017.3.svg&size=contain&color=white
 @title[CICD team]
-# 2017.12 CICD team
+2017.12
+# CICD team
  
 +++?image=img/timeline2018.1.svg&size=contain&color=white
 @title[CIT Ansible Schulung]
-# 2018.01 CIT Ansible Schulung
+2018.01
+# CIT Ansible Schulung
 ITCH Kollegen sind eingeladen
 
 +++?image=img/timeline2018.2.svg&size=contain&color=white
 @title[Einführung Container Platform]
-# 2018 Einführung Container Platform
-
+2018
+# Einführung Container Platform
 
 ---
 @title[Erfolgsfaktoren] 
