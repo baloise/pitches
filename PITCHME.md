@@ -193,7 +193,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/timeline2009.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
 2009
-# Trennung  ITCH / CIT
+# Trennung <span style="color:#CC0099">ITCH</span> / CIT
  
 +++?image=img/timeline2010.svg&size=contain&color=white
 @title[Einführung Scrum ITCH]
