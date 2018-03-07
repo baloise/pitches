@@ -10,7 +10,10 @@
 #title-footer {
 	background-color: rgba(0, 138, 201, 0.1);
 }
-
+.backDiag {
+	transform: rotate(-45deg);
+	opacity: 0.5;
+}
 
 /**
  * White theme for reveal.js. This is the opposite of the 'black' theme.

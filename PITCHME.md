@@ -5,15 +5,21 @@
 ## sagt muss auch 
 # <span class="dev"><span class="bolder">D</span>ev</span><span class="ops">Ops</span> 
 ## sagen
+<div class="backDiag">
+Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
 
-* Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
-* Wer will das? 
-* Und dürfen die das überhaupt? 
-* Das geht doch nur in StartUps und nicht in der Baloise Group! 
-* Wie kommt man zu einem DevOps – Team? 
-* Das haben wir doch vor 20 Jahren schon gemacht nur hiess es damals anders! 
-* Und was hat das alles mit Agile zu tun?
+Wer will das? 
 
+Und dürfen die das überhaupt? 
+
+Das geht doch nur in StartUps und nicht in der Baloise Group! 
+
+Wie kommt man zu einem DevOps – Team? 
+
+Das haben wir doch vor 20 Jahren schon gemacht nur hiess es damals anders! 
+
+Und was hat das alles mit Agile zu tun?
+</div>
 
 ---?image=img/baloise.group.svg&size=contain&color=white
 @title[Baloise Group]
