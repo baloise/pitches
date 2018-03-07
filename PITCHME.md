@@ -156,7 +156,7 @@ lets build a system
 +++
 @title[Zutaten ineffizienz]
 
-`$$\sum = (Gewaltentrennung^2)(Schichten+1)(Schnittstellen)$$`
+`$$\sum_{i=0}^n i^2 = (Gewaltentrennung^2)(Schichten+n)(Schnittstellen)$$`
 
 +++
 # Conways law
