@@ -186,10 +186,20 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 (langeweile vs motivation) 
 
 ---
-@title[Geschichte]
+@title[Geschichte]?image=img/book-wood-old-wall-lumber-education-939285-pxhere.com.jpg&size=contain&color=black
+
+# Ein Blick zurück
+
++++?image=img/timeline2017.1.svg&size=contain&color=white
+@title[Trennung  ITCH / CIT]
+
+# 2009 Trennung  ITCH / CIT
  
- 2009 Trennung  ITCH / CIT
- 2010 Einführung Scrum ITCH
++++?image=img/timeline2017.2.svg&size=contain&color=white
+@title[Einführung Scrum ITCH]
+
+# 2010 Einführung Scrum ITCH
+
  2013 04 - Git Self Service
  2015 Git Owner darf PROD deployen
  2015 JIRA as Release Number
