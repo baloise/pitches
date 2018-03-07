@@ -1,6 +1,6 @@
 @title[Wer Agile sagt muss auch DevOps sagen]
 
-Wer <b>A</b>gile sagt muss auch <span class="dev"><b>D</b>ev</span><span style="color:#FF9900">Ops</span> sagen
+Wer <b>A</b>gile sagt muss auch <span class="dev"><b>D</b>ev</span><span class="ops">Ops</span> sagen
 
 * Wieso will eine 150 Jahre alte schweizer Versicherung DevOps einführen? 
 * Wer will das? 
@@ -42,7 +42,7 @@ Mal wieder in den Arbeitsvertrag schauen ;-)
 ---
 @title[Wieso DevOps?]
 
-Wieso <span class="dev">Dev</span><span style="color:#FF9900">Ops</span>?
+Wieso <span class="dev">Dev</span><span class="ops">Ops</span>?
 
 +++
 @title[Continuous Delivery ]
@@ -176,7 +176,7 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/inefficient.organisation-2.svg&size=contain&color=white
 @title[Effizienz -2]
 
-+++?image=img/adam_smith_light.jpg&size=contain&position=left
++++?image=img/adam_smith_light.svg&size=contain&position=left
 @title[Ineffiziente Spezialisten]
 
 # Ineffiziente Spezialisten
@@ -193,12 +193,12 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/timeline2009.svg&size=contain&color=white
 @title[Trennung  ITCH / CIT]
 2009
-# Trennung <span class="dev">ITCH</span> / CIT
+# Trennung <span class="dev">ITCH</span> / <span class="ops">CIT</span>
  
 +++?image=img/timeline2010.svg&size=contain&color=white
 @title[Einführung Scrum ITCH]
 2010
-# Einführung Scrum ITCH
+# Einführung Scrum <span class="dev">ITCH</span>
 
 +++?image=img/timeline2013.svg&size=contain&color=white
 @title[Git Self Service]
@@ -213,13 +213,14 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/timeline2015.2.svg&size=contain&color=white
 @title[JIRA as Release Number]
 2015
-# JIRA as Release Number
+# JIRA
+# as Release Number
  
 +++?image=img/timeline2016.svg&size=contain&color=white
 @title[PROD First]
 2016
 # PROD First
-vollautomatische Deployment Pipeline
+vollautomatische deployment pipeline
  
 +++?image=img/timeline2017.1.svg&size=contain&color=white
 @title[Appserver Migration]
@@ -235,14 +236,14 @@ vollautomatische Deployment Pipeline
 +++?image=img/timeline2017.3.svg&size=contain&color=white
 @title[CICD team]
 2017.12
-# CICD team
+# <span class="dev">CI</span><span class="ops">CD</span> team
  
 +++?image=img/timeline2018.1.svg&size=contain&color=white
 @title[CIT Ansible Schulung]
 2018.01
 # Ansible Schulung
-# CIT
-ITCH Kollegen sind eingeladen
+# <span class="ops">CIT</span>
+<span class="dev">ITCH</span> Kollegen sind eingeladen
 
 +++?image=img/timeline2018.2.svg&size=contain&color=white
 @title[Container Platform]
