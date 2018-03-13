@@ -282,12 +282,6 @@ vollautomatische deployment pipeline
 +++?image=img/1openfriday.png&size=contain&color=black
 @title[Open Friday]
 
-+++?image=img/scrum_master_as_a_service.svg&size=contain&color=white
-@title[demonoply]
-
-# scrum master
-# as a service
-
 +++?image=img/container.jpg&size=contain&color=black
 @title[container]
 
