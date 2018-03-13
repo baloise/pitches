@@ -295,7 +295,7 @@ Note:
 
 100 x Quantensprung, Züge 100 x schneller 
 
----?image=img/blank.gif&size=contain&color=black
+---?image=img/black.svg&size=contain&color=black
 @title[Take Away]
 
 <ol>
@@ -304,7 +304,7 @@ Note:
 
 </ol>
 
----?image=img/blank.gif&size=contain&color=black
+---?image=img/black.svg&size=contain&color=black
 @title[Fragen]
 
 # Fragen?
