@@ -301,7 +301,7 @@ Note:
 1. <span class="dev">Dev</span><span class="ops">Ops</span> ist die logische Fortsetzung von SCRUM
 1. Bei <span class="dev">Dev</span><span class="ops">Ops</span> geht es um die Menschen
 
----?image=img/black.svg&size=contain&color=black
+---?image=img/fragen.jpg&size=contain&color=black
 @title[Fragen]
 
 # Fragen?
