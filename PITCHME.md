@@ -126,6 +126,9 @@ lets build a system
 +++?image=img/v-engine.jpg&size=contain&color=black
 @title[Effizienz V]
 
++++?image=img/inefficient.organisation7.2.svg&size=contain&color=white
+@title[Effizienz 7.2]
+
 +++?image=img/inefficient.organisation7.svg&size=contain&color=white
 @title[Effizienz 7]
 
