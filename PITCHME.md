@@ -167,9 +167,7 @@ lets build a system
 
 "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
 
-+++
-@title[Which kind of system do you want?]
-
+Note: 
 
 * Kapselung
 * Container 
@@ -178,7 +176,6 @@ lets build a system
 * Microservices 
 * Agentensysteme
 
-Note:
 Agenten = Hohe Verantwortung, eigenständigkeit
 
 +++?image=img/scrum.jpg&size=contain&color=black
@@ -190,9 +187,13 @@ Agenten = Hohe Verantwortung, eigenständigkeit
 +++?image=img/inefficient.organisation-2.svg&size=contain&color=white
 @title[Effizienz -2]
 
-+++?image=img/adam_smith_light.svg&size=contain&color=white
+---?image=img/adam_smith_light.svg&size=contain&color=white
 @title[Ineffiziente Spezialisten]
 # Ineffiziente Spezialisten
+
+Note:
+
+Adam Smith
 
 +++?image=img/halbwertszeit.svg&size=contain&color=white
 @title[Halbwertszeit des Wissens]
