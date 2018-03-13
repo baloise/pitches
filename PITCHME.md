@@ -289,6 +289,11 @@ Note:
 
 100 x Quantensprung, Züge 100 x schneller 
 
+---?image=img/deployment.svg&size=contain&color=white
+@title[F#ck #p] 
+
+# F#ck <span class="bolder">#</span>p
+
 ---
 @title[Take Away]
 
