@@ -295,7 +295,7 @@ Note:
 
 100 x Quantensprung, Züge 100 x schneller 
 
----?image=img/fragen.jpg&size=contain&color=black
+---?image=img/blank.gif&size=contain&color=black
 @title[Fragen]
 
 # Fragen?
