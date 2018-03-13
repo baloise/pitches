@@ -288,9 +288,6 @@ vollautomatische deployment pipeline
 # scrum master
 # as a service
 
-+++?image=img/4ears.svg&size=contain&color=#a3cdfb
-@title[4 ears]
-
 +++?image=img/container.jpg&size=contain&color=black
 @title[container]
 
