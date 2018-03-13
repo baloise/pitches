@@ -295,14 +295,11 @@ Note:
 
 100 x Quantensprung, Züge 100 x schneller 
 
----?image=img/black.svg&size=contain&color=black
+---
 @title[Take Away]
 
-<ol>
-<li><h3><span class="dev">Dev</span><span class="ops">Ops</span>ist die logische Fortsetzung von SCRUM</h3></li>
-<li><h3>Bei <span class="dev">Dev</span><span class="ops">Ops</span> geht es um die Menschen</h1></l3>
-
-</ol>
+1. Dev</span><span class="ops">Ops</span> ist die logische Fortsetzung von SCRUM
+1. Bei <span class="dev">Dev</span><span class="ops">Ops</span> geht es um die Menschen
 
 ---?image=img/black.svg&size=contain&color=black
 @title[Fragen]
