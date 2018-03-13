@@ -81,20 +81,21 @@ Wieso <span class="dev">Dev</span><span class="ops">Ops</span>?
 +++
 @title[humans are no robots]
 
-* Everything is in version control
-* Bring Your Own Dependencies
-* Automatic Update is the default
-* Every Change is released
-* Done means released
-* Build exactly once
-* Don't build it your way
-* Slow builds fail
-* Production first
-* Deployments live and die
-* DEV works offline
+
+* <span style="color:#DDDDDD;">Everything is in version control</span>
+* <span style="color:#DDDDDD;">Bring Your Own Dependencies</span>
+* <span style="color:#DDDDDD;">Automatic Update is the default</span>
+* <span style="color:#DDDDDD;">Every Change is released</span>
+* <span style="color:#DDDDDD;">Done means released</span>
+* <span style="color:#DDDDDD;">Build exactly once</span>
+* <span style="color:#DDDDDD;">Don't build it your way</span>
+* <span style="color:#DDDDDD;">Slow builds fail</span>
+* <span style="color:#DDDDDD;">Production first</span>
+* <span style="color:#DDDDDD;">Deployments live and die</span>
+* <span style="color:#DDDDDD;">DEV works offline</span>
 * <span style="color:#CC0099;">humans are no robots</span>
-* Never repair a running system
-* Everything valuable has an API
+* <span style="color:#DDDDDD;">Never repair a running system</span>
+* <span style="color:#DDDDDD;">Everything valuable has an API</span>
 
 Note:
 Let robots do robot jobs
