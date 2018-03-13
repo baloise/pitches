@@ -242,11 +242,6 @@ people cannot be passionate about doing the same thing over and over."</i></p>
 2016
 # PROD First
 vollautomatische deployment pipeline
- 
-+++?image=img/timeline2017.1.svg&size=contain&color=white
-@title[Appserver Migration]
-2017
-# Appserver Migration
 
 +++?image=img/timeline2017.2.svg&size=contain&color=white
 @title[Fachbereich PROD first]
