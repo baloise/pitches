@@ -3,11 +3,12 @@
 
 ---?image=https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=auto 25%&position=top
 https://github.com/baloise
-* fast & flexible
-* no $$
-* variable licensing
-* easy prototyping
-* huge ( 75M repos, 25M users)
+* founded in 2013: 5 year Happy Birthday!
+* x repos, total y plugins with z installs on Eclipse and Atlassian marketplace
+* 30+ people from Baloise
+* translated into german, english, french and ...
+* TBD : external committers, committer map?
+* everyone is encouraged to participate
 
 ---?image=maturityModel.png&size=contain&color=white
 
