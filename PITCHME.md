@@ -1,7 +1,7 @@
 @title[Open Source]
  # Open Source
- +++?image=https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg&size=contain&color=white
- 
+ ![Open Source - Buzzword Cloud](https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg)
+  
 ---
 
 @title[Github]
