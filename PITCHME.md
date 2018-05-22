@@ -1,8 +1,7 @@
 ---?image=https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg
 @title[Open Source]
 
----
-![github Logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=auto 25%)
+---?image=https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=auto 25%&position=top
 [https://github.com/baloise]
 * fast & flexible
 * no $$
@@ -12,8 +11,7 @@
 
 ---?image=maturityModel.png&size=contain&color=white
 
----
-![Eclipse Foundation Logo](https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto 25%&color=black)
+---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto 25%&color=black&position=top
 * reputation
 * we can learn a lot about governance and licensing
 * sustainability
