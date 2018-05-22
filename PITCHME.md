@@ -5,18 +5,17 @@
 https://github.com/baloise
 * fast & flexible
 * no $$
-* flexible licensing
+* variable licensing
 * easy prototyping
-* huge ( 75M repos, 25M users ?)
+* huge ( 75M repos, 25M users)
 
 ---?image=maturityModel.png&size=contain&color=white
 
 ---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto 25%&color=black&position=top
 ### next step in open collaboration
-* reputation
 * grown-up community, governance and licensing
-* sustainability
-* not just an IDE!
+* reputation and sustainability 
+* not just an IDE: Eclipse != Eclipse Foundation
 * enables partnering: working groups, IoT
 
 ---
