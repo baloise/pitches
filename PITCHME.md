@@ -1,12 +1,13 @@
 @title[Open Source]
  ![Open Source - Buzzword Cloud](https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg)
-  
+
+
 ---
 
 @title[Github]
 
 # Github
-* 
+[https://github.com/baloise]
 * fast & flexible
 * no $$
 * flexible licensing
@@ -16,15 +17,12 @@
 ---
 
 @title[Maturity Model]
-
 # Maturity Model
 +++?image=maturityModel.png&size=contain&color=white
 
 ---
 
 @title[Eclipse Foundation]
-
-# Eclipse Foundation
 ![Eclipse Foundation Logo](https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg)
 
 * reputation
