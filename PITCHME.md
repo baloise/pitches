@@ -1,5 +1,4 @@
 @title[Open Source]
- # Open Source
  ![Open Source - Buzzword Cloud](https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg)
   
 ---
@@ -7,7 +6,7 @@
 @title[Github]
 
 # Github
-
+* 
 * fast & flexible
 * no $$
 * flexible licensing
@@ -26,6 +25,7 @@
 @title[Eclipse Foundation]
 
 # Eclipse Foundation
+![Eclipse Foundation Logo](https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg)
 
 * reputation
 * we can learn a lot about governance and licensing
