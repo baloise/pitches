@@ -12,11 +12,12 @@ https://github.com/baloise
 ---?image=maturityModel.png&size=contain&color=white
 
 ---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto 25%&color=black&position=top
+### next step in open collaboration
 * reputation
-* we can learn a lot about governance and licensing
+* grown-up community, governance and licensing
 * sustainability
-* governance managed through community
-* enables partnering
+* not just an IDE!
+* enables partnering: working groups, IoT
 
 ---
 # Thanks - Q&A!
