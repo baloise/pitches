@@ -10,9 +10,8 @@
 * huge ( 75M repos, 25M users ?)
 
 ---?image=maturityModel.png&size=contain&color=white
-### Maturity Model
 
----?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg&size=auto
+---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto&color=black
 * reputation
 * we can learn a lot about governance and licensing
 * sustainability
@@ -27,7 +26,4 @@
 
 To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. 
 
-
 Contribute under https://github.com/baloise/pitches/blob/opensource/PITCHME.md
-
----
