@@ -2,7 +2,7 @@
 @title[Open Source]
 
 ---?image=https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=auto 25%&position=top
-[https://github.com/baloise]
+https://github.com/baloise
 * fast & flexible
 * no $$
 * flexible licensing
