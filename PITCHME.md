@@ -15,15 +15,15 @@
 
 ---
 
-@title[Open Source Maturity Model]
+@title[Maturity Model]
 
-# Open Source Maturity Mode
+# Maturity Model
 
 ---
 
-@title[Eclipse]
+@title[Eclipse Foundation]
 
-# Eclipse
+# Eclipse Foundation
 
 * reputation
 * we can learn a lot about governance and licensing
