@@ -18,7 +18,7 @@
 @title[Maturity Model]
 
 # Maturity Model
----?image=maturityModel.png&size=contain&color=white
+?image=maturityModel.png&size=contain&color=white
 
 ---
 
