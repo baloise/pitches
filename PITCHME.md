@@ -17,7 +17,7 @@ https://github.com/baloise
 * reputation and sustainability 
 * not just an IDE: Eclipse != Eclipse Foundation
 * enables partnering: working groups, IoT
-* since Q2 2018: [Baloise Holding is Solution Member @eclipse.org](https://www.eclipse.org/membership/showMember.php?member_id=1288)
+* since Q2 2018: [Baloise Holding is Solution Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
 ---
 # Thanks - Q&A!
 ---
