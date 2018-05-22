@@ -3,6 +3,7 @@
 
 ---?image=https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=auto 20%&position=top
 https://github.com/baloise
+@title[Github]
 * founded in 2013: 5 year Happy Birthday!
 * x repos, total y plugins with z installs on Eclipse and Atlassian marketplace
 * 30+ people from Baloise
@@ -11,8 +12,10 @@ https://github.com/baloise
 * everyone is encouraged to participate
 
 ---?image=maturityModel.png&size=contain&color=white
+@title[Open Source Maturity Model]
 
 ---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo_wo.png&size=auto 25%&color=black&position=top
+@title[Eclipse Foundation]
 ### next step in open collaboration
 * grown-up community, governance and licensing
 * reputation and sustainability 
@@ -21,6 +24,7 @@ https://github.com/baloise
 * since Q2 2018: [Baloise Holding is Solution Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
 
 ---?image=foundationMember.png&size=contain&color=white
+@title[Foundation Member]
 
 ---
 @title[License & contributions]
