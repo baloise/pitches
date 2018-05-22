@@ -1,11 +1,9 @@
-@title[Open Source]
----?image=https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg
-
----
-
 @title[Github]
 
-# Github
+### Open Source
+---?image=https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg
+
+### Github
 [https://github.com/baloise]
 * fast & flexible
 * no $$
@@ -13,16 +11,11 @@
 * easy prototyping
 * huge ( 75M repos, 25M users ?)
 
----
-
-@title[Maturity Model]
-# Maturity Model
+### Maturity Model
 +++?image=maturityModel.png&size=contain&color=white
 
----
-
-@title[Eclipse Foundation]
-![Eclipse Foundation Logo](https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg)
+### Eclipse Foundation
+---?image=https://www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg
 
 * reputation
 * we can learn a lot about governance and licensing
