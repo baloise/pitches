@@ -17,12 +17,12 @@ https://github.com/baloise
 * grown-up community, governance and licensing
 * reputation and sustainability 
 * not just an IDE: Eclipse != Eclipse Foundation
-* enables partnering: working groups, IoT
+* enables partnering: Working Groups: JakartaEE, IoT, 300+ more ...
 * since Q2 2018: [Baloise Holding is Solution Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
----
-# Thanks - Q&A!
----
 
+---?image=foundationMember.png&size=contain&color=white
+
+---
 @title[License & contributions]
 
 ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)
