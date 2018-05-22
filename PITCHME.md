@@ -1,15 +1,7 @@
-@title[Eclipse]
-
-# Eclipse
-
-* reputation
-* we can learn a lot about governance and licensing
-* sustainability
-* governance managed through community
-* enables partnering
-
+@title[Open Source]
+ # Open Source
+ 
 ---
-
 
 @title[Github]
 
@@ -20,6 +12,24 @@
 * flexible licensing
 * easy prototyping
 * huge ( 75M repos, 25M users ?)
+
+---
+
+@title[Open Source Maturity Model]
+
+# Open Source Maturity Mode
+
+---
+
+@title[Eclipse]
+
+# Eclipse
+
+* reputation
+* we can learn a lot about governance and licensing
+* sustainability
+* governance managed through community
+* enables partnering
 
 ---
 
