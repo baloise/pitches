@@ -25,9 +25,9 @@ http://marketplace.eclipse.org/content/eclipse-gitblit/api/p 25396
 @title[Eclipse Foundation]
 ### next step in open collaboration
 * grown-up community, governance and licensing
-* reputation and sustainability 
+* reputation, sustainability and vendor neutrality
 * not just an IDE: Eclipse != Eclipse Foundation
-* enables partnering: Working Groups: JakartaEE, IoT, 300+ more ...
+* enables partnering - Working Groups: JakartaEE, IoT, 300+ more ...
 * since Q2 2018: [Baloise Holding is Solution Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
 
 ---?image=foundationMember.png&size=contain&color=white
