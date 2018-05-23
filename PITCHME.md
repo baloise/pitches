@@ -11,6 +11,13 @@ https://github.com/baloise
 * TBD : external committers, committer map?
 * everyone is encouraged to participate
 
+Note: 
+
+https://marketplace.atlassian.com/rest/2/addons/com.baloise.confluence.digital-signature/distribution 345
+https://marketplace.atlassian.com/rest/2/addons/com.baloise.confluence.dashboard-plus/distribution 124
+http://marketplace.eclipse.org/content/eExplorer/api/p 20974
+http://marketplace.eclipse.org/content/eclipse-gitblit/api/p 25396
+
 ---?image=maturityModel.png&size=contain&color=white
 @title[Open Source Maturity Model]
 
