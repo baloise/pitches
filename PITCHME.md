@@ -5,7 +5,7 @@
 @title[Github]
 https://github.com/baloise
 * founded in 2013: 5 year Happy Birthday!
-* x repos, total y plugins with z installs on Eclipse and Atlassian marketplace
+* 47 repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace
 * 30+ people from Baloise
 * translated into german, english, french and ...
 * TBD : external committers, committer map?
