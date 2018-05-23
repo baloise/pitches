@@ -1,7 +1,7 @@
 ---?image=https://www.datamate.org/wp-content/uploads/2017/10/seafile-open-source.jpg
 @title[Open Source]
 
----?image=https://assets-cdn.github.com/images/modules/open_graph/github-mark.png&size=contain&color=white
+---?image=img/github logo.svg&size=contain&color=white
 @title[Github]
 https://github.com/baloise
 * founded in 2013: 5 year Happy Birthday!
