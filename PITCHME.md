@@ -1,4 +1,4 @@
----?image=https://ih0.redbubble.net/image.215929326.7554/ap,550x550,16x12,1,transparent,t.u7.png
+---?image=https://ih0.redbubble.net/image.215929326.7554/ap,550x550,16x12,1,transparent,t.u7.png&color=black
 @title[Open Source]
 
 ---?image=img/github-logo.svg&size=contain&color=white
