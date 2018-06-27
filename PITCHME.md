@@ -89,12 +89,10 @@ Better scalability + better resilience
 
 Little to no disruption expected
 
----
+---?image=https://opensource.org/files/osi_standard_logo.png&size=cover&opacity=30
 
 @title[Open Source: The Third Decade]
 
 ### [Open Source: The Third Decade](https://www.eclipsecon.org/france2018/sites/default/files/slides/1824-EclipseCon-Toulouse.pdf)
-
-![Logo](https://opensource.org/files/osi_standard_logo.png)
 
  Simon Phipps, president@opensource.org
