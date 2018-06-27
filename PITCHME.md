@@ -56,9 +56,9 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 
 ---
 
-@title[Eclipse Photon]
+@title[Eclipse 2018: Photon]
 
-## [Eclipse Photon](https://www.eclipsecon.org/france2018/session/approaching-light-speed-news-eclipse-photon-platform)
+## [Eclipse 2018: Photon](https://www.eclipsecon.org/france2018/session/approaching-light-speed-news-eclipse-photon-platform)
 
 ### [Focus on IDE improvements](https://starwarsintrocreator.kassellabs.io/?ref=redirect#!/AL8nDXUfLt4EuoJ6tF-m)
 
@@ -75,7 +75,6 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 @title[CI Infrastructure @ Eclipse]
 
 ### [CI Infrastructure @ Eclipse](https://www.eclipsecon.org/france2018/session/better-ci-infrastructure-eclipse-projects-or-how-manage-200-jenkins-masters)
-
 
 ![Eclipse CI](ec-ci.png)
 
@@ -95,7 +94,7 @@ Little to no disruption expected
 
 ### [Open Source: The Third Decade](https://www.eclipsecon.org/france2018/sites/default/files/slides/1824-EclipseCon-Toulouse.pdf)
 
- Simon Phipps, president@opensource.org
+Simon Phipps, president@opensource.org
 
 +++?image=os-1.png&size=contain
 
