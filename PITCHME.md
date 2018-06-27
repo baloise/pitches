@@ -50,6 +50,14 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 
 @title[Eclipse MicroProfile - 2.0]
 
-### [Eclipse MicroProfile - 2.0]
+### [Eclipse MicroProfile - 2.0](http://microprofile.io/projects)
 
 ![2.0](mp20.png)
+
+---
+
+@title[Eclipse Photon]
+
+## [Eclipse Photon](https://www.eclipsecon.org/france2018/session/approaching-light-speed-news-eclipse-photon-platform)
+
+### [Focus on IDE improvements](https://starwarsintrocreator.kassellabs.io/?ref=redirect#!/AL8nDXUfLt4EuoJ6tF-m)
