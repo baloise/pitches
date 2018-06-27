@@ -61,3 +61,30 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 ## [Eclipse Photon](https://www.eclipsecon.org/france2018/session/approaching-light-speed-news-eclipse-photon-platform)
 
 ### [Focus on IDE improvements](https://starwarsintrocreator.kassellabs.io/?ref=redirect#!/AL8nDXUfLt4EuoJ6tF-m)
+
+---
+
+@title[Evergreen Jenkins]
+
+### [Evergreen Jenkins](https://www.eclipsecon.org/france2018/session/jenkins-essentials-evergreen-version-jenkins)
+
+![Jenkins evergreen](jenkins-evergreen.png)
+
++++
+
+@title[CI Infrastructure @ Eclipse]
+
+### [CI Infrastructure @ Eclipse](https://www.eclipsecon.org/france2018/session/better-ci-infrastructure-eclipse-projects-or-how-manage-200-jenkins-masters)
+
+
+![Eclipse CI](ec-ci.png)
+
++++
+
+@title[CI Infrastructure @ Eclipse - 2]
+
+## Eclipse Foundation CI is moving to a Kubernetes (OpenShift) cluster based solution + CloudBees Jenkins Enterprise 
+
+Better scalability + better resilience
+
+Little to no disruption expected
