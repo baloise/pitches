@@ -38,10 +38,18 @@ Hands-on [Microprofile Guides](https://github.com/OpenLiberty?utf8=✓&q=guide-&
 
 using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 
----?image=mp14.png
+---
 
 @title[Eclipse MicroProfile - What's new]
 
 ### [Eclipse MicroProfile - What's new](https://www.eclipsecon.org/france2018/sites/default/files/slides/Microprofile-New_and_Noteworthy.pdf)
 
-+++?image=mp20.png
+![1.4](mp14.png)
+
++++
+
+@title[Eclipse MicroProfile - 2.0]
+
+### [Eclipse MicroProfile - 2.0]
+
+![2.0](mp20.png)
