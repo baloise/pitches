@@ -8,21 +8,21 @@
 ---
 @title[Overview]
 
-## TOULOUSE, FRANCE · JUNE 12 - 14, 2018
+### TOULOUSE, FRANCE · JUNE 12 - 14, 2018
 
-### Unconference
- - Community event
-   - Workshop: Building Cloud and Desktop IDEs with Theia
-   - Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
+#### Unconference - Community event
 
-### Conference
+- Workshop: Building Cloud and Desktop IDEs with Theia
+- Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
 
----
+#### main conference
+
++++
 @title[Cloud IDE Theia]
 
-## Cloud IDE Theia
+### Cloud IDE Theia
 
----
++++
 @title[Eclipse MicroProfile]
 
-## Eclipse MicroProfile
+### Eclipse MicroProfile
