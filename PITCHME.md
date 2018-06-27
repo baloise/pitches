@@ -96,3 +96,15 @@ Little to no disruption expected
 ### [Open Source: The Third Decade](https://www.eclipsecon.org/france2018/sites/default/files/slides/1824-EclipseCon-Toulouse.pdf)
 
  Simon Phipps, president@opensource.org
+
++++?image=os-1.png&size=contain
+
++++?image=os-2.png&size=contain
+
++++?image=os-3.png&size=contain
+
++++?image=os-4.png&size=contain
+
++++?image=os-5.png&size=contain
+
++++?image=os-6.png&size=contain
