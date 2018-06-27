@@ -28,8 +28,16 @@ currently closed BEATA: gitpod.io
 provision IDE + workspace with one [click](https://gitpod.io/#https://github.com/baloise/pitches/tree/eclipsecon-france-18)
 
 +++?color=black
+@title[IBM Microprofile and OpenLiberty]
+
+### IBM Microprofile and OpenLiberty
+
+![Logo](https://microprofile.io/app/images/logo.png)
+
+IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
+
+---
+
 @title[Eclipse MicroProfile]
 
 ### Eclipse MicroProfile
-
-![Logo](https://microprofile.io/app/images/logo.png)
