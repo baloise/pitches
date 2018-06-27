@@ -25,8 +25,7 @@ Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
 
 currently closed BEATA: gitpod.io
 
-https://gitpod.io/#https://github.com/baloise/pitches/tree/eclipsecon-france-18
-
+provision IDE + workspace with one [click](https://gitpod.io/#https://github.com/baloise/pitches/tree/eclipsecon-france-18)
 
 +++
 @title[Eclipse MicroProfile]
