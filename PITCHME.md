@@ -108,3 +108,21 @@ Little to no disruption expected
 +++?image=os-5.png&size=contain
 
 +++?image=os-6.png&size=contain
+
+---?color=black
+
+@title[Eclipse OpenJ9]
+
+### [Eclipse OpenJ9](https://www.eclipsecon.org/france2018/sites/default/files/slides/EclipseConFrance2018_Cloud_Native_With_OpenJ9.pdf)
+
+![OpenJ9](https://www.eclipse.org/openj9/assets/openj9_6b.png)
+
++++?image=j9-1.png&size=contain
+
++++?image=j9-2.png&size=contain
+
++++?image=j9-3.png&size=contain
+
+---
+
+# Thanks - QA?
