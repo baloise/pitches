@@ -12,8 +12,9 @@
 
 #### Unconference - Community event
 
-- Workshop: Building Cloud and Desktop IDEs with Theia
-- Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
+Workshop: Building Cloud and Desktop IDEs with Theia
+
+Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
 
 #### main conference
 
@@ -21,6 +22,11 @@
 @title[Cloud IDE Theia]
 
 ### Cloud IDE Theia
+
+Closed BETA: gitpod.io
+
+https://gitpod.io/#https://github.com/baloise/open-source
+
 
 +++
 @title[Eclipse MicroProfile]
