@@ -56,6 +56,17 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 
 ---
 
+@title[Eclipse Jakarta EE]
+
+### [Eclipse Jakarta EE](https://www.eclipsecon.org/france2018/session/jakarta-ee-not-your-parents-java-ee)
+
+![Eclipse Jakarta EE](https://blog.talanlabs.com/wp-content/uploads/2018/03/JakartaEE.jpg)
+
++++?image=ee4j-status.png&size=contain
+@title[Eclipse Jakarta EE - Status]
+
+---
+
 @title[Eclipse 2018: Photon]
 
 ## [Eclipse 2018: Photon](https://www.eclipsecon.org/france2018/session/approaching-light-speed-news-eclipse-photon-platform)
