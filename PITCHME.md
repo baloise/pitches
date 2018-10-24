@@ -23,7 +23,7 @@ Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
 
 ### Cloud IDE Theia
 
-currently closed BETA: gitpod.io
+currently closed BEATA: gitpod.io
 
 provision IDE + workspace with one [click](https://gitpod.io/#https://github.com/baloise/pitches/tree/eclipsecon-france-18)
 
