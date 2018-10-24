@@ -23,7 +23,7 @@ Hands-on Cloud-Native Java with Eclipse MicroProfile Workshop
 
 ### Cloud IDE Theia
 
-currently closed BEATA: gitpod.io
+currently closed BETA: gitpod.io
 
 provision IDE + workspace with one [click](https://gitpod.io/#https://github.com/baloise/pitches/tree/eclipsecon-france-18)
 
@@ -93,7 +93,7 @@ using IBMs WebSphere [OpenLiberty app server](https://github.com/OpenLiberty)
 
 @title[CI Infrastructure @ Eclipse - 2]
 
-## Eclipse Foundation CI is moving to a Kubernetes (OpenShift) cluster based solution + CloudBees Jenkins Enterprise 
+## Eclipse Foundation CI is moving to a Kubernetes (OpenShift) cluster based solution + CloudBees Jenkins Enterprise
 
 Better scalability + better resilience
 
