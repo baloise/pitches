@@ -33,7 +33,7 @@
 </ul>
 </div>
 <div class="right">
-    ![architecture](facebook_services.png)
+![architecture](facebook_services.png)
 </div>
 
 
