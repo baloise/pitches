@@ -10,7 +10,8 @@
 ### Overview
 * Why GraphQL
 * How does it work
-* Java implementation
+* Hands On
+* GraphQL concepts
 * DEMO
 
 ---
@@ -73,6 +74,9 @@
 
 +++
 @title[Query]
+### Query
++++
+@title[Query]
 
 Simple hero query
 
@@ -130,8 +134,145 @@ Simple hero query
   }
 }
 ```
++++
+@title[Mutation]
+### Mutation
+
++++
+@title[MutQuery]
+
+Simple mutation
 
 
+```
+mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
+  createReview(episode: $ep, review: $review) {
+    stars
+    commentary
+  }
+}
+```
+```
+{
+  "data": {
+    "createReview": {
+      "stars": 5,
+      "commentary": "This is a great movie!"
+    }
+  }
+}
+```
++++
+@title[How does it work]
+
+### Mutation
+
+* Not only querying CUD operations
+* Multiple Mutations possible
+* Query your desirable return value
+
+---
+@title[Java implementation]
+
+### Java Implementation
+
+* Design your schema
+* Rest Endpoint
+* Additional libs
+
++++
+@title[Java implementation]
+
+### Design your schema
+
++++
+@title[Java implementation]
+
+### Schema Typdefinition
+
+```
+type Partner{
+  id: Int
+  name: String
+  firstName: String
+  gebDate: LocalDate
+  sex: Int
+}
+```
++++
+@title[Java implementation]
+
+### Schema Query + Mutation + Schema
+
+```
+type Query {
+  getPartner(id: Int):Partner
+}
+type Mutation {
+  createPartner(id: Int!, name: String!, firstName: String!): Partner
+  deletePartner(id: Int!): Partner
+}
+schema {
+  query: Query
+  mutation: Mutation
+}
+```
++++
+@title[Implementation]
+
+### Schema
+
+* Language independent
+* Service definition similar wsdl
+* Generates typesafety
+
++++
+@title[Java implementation]
+
+### Java Implementierung
+Maven Dependencies:
+```
+<dependency>
+    <groupId>com.graphql-java</groupId>
+    <artifactId>graphql-java</artifactId>
+    <version>3.0.0</version>
+</dependency>
+<dependency>
+    <groupId>com.graphql-java</groupId>
+    <artifactId>graphql-java-tools</artifactId>
+    <version>3.2.0</version>
+</dependency>
+<dependency>
+    <groupId>com.graphql-java</groupId>
+    <artifactId>graphql-java-servlet</artifactId>
+    <version>4.0.0</version>
+</dependency>
+```
+---
+@title[Best practices]
+
+### Design Concepts
+
+* Think in Graphs
+* Shared Language
+* Go Iterative
+
++++
+@title[Implementation]
+
+### Think in Graphs
+
+* With GraphQL, you model your business domain as a graph
+* Query your Business Objects
+* Which relation does my client need?
+* It is not the same as Database relation
+
++++
+@title[Implementation]
+
+### Rest Thinking
+
+![rest](rest_endpoint.png)
 ---
 
 # Thanks - QA?
