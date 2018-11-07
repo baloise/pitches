@@ -24,19 +24,21 @@
 @title[Facebook Services]
 
 ### Facebook Services
-
-![architecture](facebook_services.svg)
-
+@snap[center-left]
+![architecture](facebook_services.png)
+@snapend
+@snap[center-right]
 * Slow performance due overfetching
 * Rest endpoints deliver fixed json models
 * Difference between server objects and mobile clients
 * Need for a graph of objects
+@snapend
 
 +++
 @title[GraphQL API]
 
 ### Solution
----?image=facebook_services_new.png&position=left&size=55% 100%)
+![architecture_new](facebook_services_new.png)
 
 * Use a single API Endpoint
 * Query a graph instead every single Endpoint
