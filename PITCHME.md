@@ -21,16 +21,20 @@
 
 
 +++
-
----?image=facebook_services.png&position=left&size=55% 100%
-
 @title[Facebook Services]
 
+<div class="left">
+![architecture](facebook_services.png)
+</div>
+
+<div class="right">
 ### Facebook Services
 * Slow performance due overfetching
 * Rest endpoints deliver fixed json models
 * Difference between server objects and mobile clients
 * Need for a graph of objects
+</div>
+
 
 +++
 @title[GraphQL API]
