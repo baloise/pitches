@@ -7,7 +7,7 @@
 
 ---
 @title[Overview]
-
+### Overview
 * Why GraphQL
 * How does it work
 * Java implementation
@@ -20,7 +20,7 @@
 
 
 
-
++++
 @title[Facebook Services]
 
 ### Facebook Services
