@@ -28,11 +28,14 @@
 </div>
 
 <div class="right">
+
 ### Facebook Services
+
 * Slow performance due overfetching
 * Rest endpoints deliver fixed json models
 * Difference between server objects and mobile clients
 * Need for a graph of objects
+
 </div>
 
 
