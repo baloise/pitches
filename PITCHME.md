@@ -11,6 +11,7 @@
 * Why GraphQL
 * How does it work
 * Java implementation
+* DEMO
 
 ---
 @title[Why GraphQL]
@@ -73,12 +74,9 @@
 +++
 @title[Query]
 
-@snap[north-east]
-
 Simple hero query
-@snapend
 
-@snap[west]
+
 ```
 {
   hero {
@@ -90,8 +88,6 @@ Simple hero query
   }
 }
 ```
-@snapend
-@snap[east]
 ```
 {
   "data": {
@@ -106,7 +102,35 @@ Simple hero query
   }
 }
 ```
-@snapend
++++
+@title[Parameter]
+### Parameters
+
+```
+{
+  hero(episode: EMPIRE) {
+    name
+  }
+}
+```
++++
+@title[Alias]
+### Alias
+
+```
+{
+  empireHero: hero(episode: EMPIRE) {
+    name
+  }
+  jediHero: hero(episode:JEDI){
+    name
+  }
+  other: hero(episode:OTHER){
+     name
+  }
+}
+```
+
 
 ---
 
