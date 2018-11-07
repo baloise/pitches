@@ -1,3 +1,5 @@
+layout : center-right
 footnote : "GraphQL Open-X-Day 2018"
 theme: night
 theme-override : css/custom.css
+code-line-numbers : true

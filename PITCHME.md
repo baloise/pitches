@@ -23,20 +23,23 @@
 +++
 @title[Facebook Services]
 
-### Facebook Services
+@snap[north]
+<h4>Facebook Services</h4>
+@snapend
 
-<div class="left">
-<ul>
-    <li>Slow performance due overfetching</li>
-    <li>Fixed json models</li>
-    <li>Graph of objects is needed</li>
-</ul>
-</div>
-<div class="right">
-![architecture](facebook_services.png)
-</div>
+@snap[west]
 
+@ul
+- Slow performance due overfetching
+- Fixed json models
+- Graph of objects is needed
+@ulend
 
+@snapend
+
+@snap[east]
+![](facebook_services.png)
+@snapend
 
 
 +++
@@ -59,9 +62,11 @@
 +++
 @title[Query]
 
-### Query
+@snap[north-east]
 
 Simple hero query
+@snapend
+
 @snap[west]
 ```
 {
