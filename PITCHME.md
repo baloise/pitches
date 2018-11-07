@@ -10,8 +10,8 @@
 ### Overview
 * Why GraphQL
 * How does it work
-* Hands On
-* GraphQL concepts
+* Hands on
+* GraphQL design concepts
 * DEMO
 
 ---
@@ -167,17 +167,17 @@ mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
 
 ### Mutation
 
-* Not only querying CUD operations
-* Multiple Mutations possible
+* CUD operations
+* Multiple Mutations in one operation possible
 * Query your desirable return value
 
 ---
 @title[Java implementation]
 
-### Java Implementation
+### Hands On
 
 * Design your schema
-* Rest Endpoint
+* Supported Languages
 * Additional libs
 
 +++
@@ -229,25 +229,9 @@ schema {
 +++
 @title[Java implementation]
 
-### Java Implementierung
-Maven Dependencies:
-```
-<dependency>
-    <groupId>com.graphql-java</groupId>
-    <artifactId>graphql-java</artifactId>
-    <version>3.0.0</version>
-</dependency>
-<dependency>
-    <groupId>com.graphql-java</groupId>
-    <artifactId>graphql-java-tools</artifactId>
-    <version>3.2.0</version>
-</dependency>
-<dependency>
-    <groupId>com.graphql-java</groupId>
-    <artifactId>graphql-java-servlet</artifactId>
-    <version>4.0.0</version>
-</dependency>
-```
+### Supported languages
+
+![rest](languages.png)
 ---
 @title[Best practices]
 
@@ -273,6 +257,24 @@ Maven Dependencies:
 ### Rest Thinking
 
 ![rest](rest_endpoint.png)
+
++++
+@title[Implementation]
+
+### GraphQL Thinking
+
+![graphql](graphql_endpoint.png)
+
++++
+@title[Implementation]
+
+### Shared Language
+
+* Refer to DDD use Ubiquitous Language
+* To build a good schema you need clear business descriptions
+* Shared understanding and consensus of business in team
+
+
 ---
 
 # Thanks - QA?
