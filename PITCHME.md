@@ -30,8 +30,7 @@
 @snap[west]
 
 @ul
-- Slow performance 
-due overfetching
+- Overfetching
 - Fixed json models
 - Graph of objects
 @ulend
@@ -44,13 +43,24 @@ due overfetching
 
 
 +++
-@title[GraphQL API]
 
-### Solution
-![architecture_new](facebook_services_new.png)
+@title[GraphQL]
+@snap[north]
+<h4>Solution</h4>
+@snapend
 
-* Single API Endpoint
-* Query a graph, select properties
+@snap[west]
+@ul
+- Single API Endpoint
+- Query a graph
+- Select properties
+@ulend
+
+@snapend
+
+@snap[east]
+![](facebook_services_new.png)
+@snapend
 
 ---
 @title[How does it work]
@@ -90,12 +100,6 @@ Simple hero query
       "friends": [
         {
           "name": "Luke Skywalker"
-        },
-        {
-          "name": "Han Solo"
-        },
-        {
-          "name": "Leia Organa"
         }
       ]
     }
