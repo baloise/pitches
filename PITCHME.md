@@ -36,8 +36,7 @@
 @title[GraphQL API]
 
 ### Solution
-
-![architecture](facebook_services_new.png)
+---?image=facebook_services_new.png&position=left&size=55% 100%)
 
 * Use a single API Endpoint
 * Query a graph instead every single Endpoint
