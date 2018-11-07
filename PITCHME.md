@@ -30,9 +30,10 @@
 @snap[west]
 
 @ul
-- Slow performance due overfetching
+- Slow performance 
+due overfetching
 - Fixed json models
-- Graph of objects is needed
+- Graph of objects
 @ulend
 
 @snapend
