@@ -10,8 +10,8 @@
 ### Overview
 * Why GraphQL
 * How does it work
-* Hands on
-* GraphQL design concepts
+* API-Design concepts
+* How to start
 * DEMO
 
 ---
@@ -172,13 +172,53 @@ mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
 * Query your desirable return value
 
 ---
+@title[Best practices]
+
+### API-Design Concepts
+
+* Think in Graphs
+* Shared Language
+
++++
+@title[Implementation]
+
+### Think in Graphs
+
+* With GraphQL, you model your business domain as a graph
+* Query your Business Objects
+* Which relation does my client need?
+* It is not the same as Database relation
+
++++
+@title[Implementation]
+
+### Rest Thinking
+
+![rest](rest_endpoint.png)
+
++++
+@title[Implementation]
+
+### GraphQL Thinking
+
+![graphql](graphql_endpoint.png)
+
++++
+@title[Implementation]
+
+### Shared Language
+
+* Refer to DDD use Ubiquitous Language
+* To build a good schema you need clear business descriptions
+* Shared understanding and consensus of business in team
+
+---
 @title[Java implementation]
 
-### Hands On
+### How to start
 
 * Design your schema
-* Supported Languages
-* Additional libs
+* Choose your Languages
 
 +++
 @title[Java implementation]
@@ -188,7 +228,7 @@ mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
 +++
 @title[Java implementation]
 
-### Schema Typdefinition
+### Schema Type-definition
 
 ```
 type Partner{
@@ -232,46 +272,7 @@ schema {
 ### Supported languages
 
 ![rest](languages.png)
----
-@title[Best practices]
 
-### Design Concepts
-
-* Think in Graphs
-* Shared Language
-
-+++
-@title[Implementation]
-
-### Think in Graphs
-
-* With GraphQL, you model your business domain as a graph
-* Query your Business Objects
-* Which relation does my client need?
-* It is not the same as Database relation
-
-+++
-@title[Implementation]
-
-### Rest Thinking
-
-![rest](rest_endpoint.png)
-
-+++
-@title[Implementation]
-
-### GraphQL Thinking
-
-![graphql](graphql_endpoint.png)
-
-+++
-@title[Implementation]
-
-### Shared Language
-
-* Refer to DDD use Ubiquitous Language
-* To build a good schema you need clear business descriptions
-* Shared understanding and consensus of business in team
 ---
 @title[DEMO]
 
@@ -281,3 +282,15 @@ Linus Torvalds
 ---
 
 # Thanks - QA?
+
+---
+
+### Sources
+* [Graphql Github](https://graphql.github.io/)
+* [4-Years of GraphQL](https://www.graphql.com/articles/4-years-of-graphql-lee-byron)
+* [GraphQL under the hood](https://about.sourcegraph.com/graphql/graphql-under-the-hood)
+* [Eric-Baer-GraphQL under the hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
+* [graphql-java](https://github.com/graphql-java/graphql-java)
+* [data-loader](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
+
+
