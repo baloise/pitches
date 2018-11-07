@@ -23,17 +23,15 @@
 +++
 @title[Facebook Services]
 
+### Facebook Services
+
 <div class="left">
 ![architecture](facebook_services.png)
 </div>
 
-
-### Facebook Services
-
 * Slow performance due overfetching
-* Rest endpoints deliver fixed json models
-* Difference between server objects and mobile clients
-* Need for a graph of objects
+* Fixed json models
+* Graph of objects is needed
 
 
 +++
