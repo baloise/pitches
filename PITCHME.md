@@ -28,10 +28,15 @@
 <div class="left">
 ![architecture](facebook_services.png)
 </div>
+<div class="right">
 
 * Slow performance due overfetching
 * Fixed json models
 * Graph of objects is needed
+
+</div>
+
+
 
 
 +++
