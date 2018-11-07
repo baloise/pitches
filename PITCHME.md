@@ -26,14 +26,14 @@
 ### Facebook Services
 
 <div class="left">
-![architecture](facebook_services.png)
-</div>
-<div class="right">
 <ul>
     <li>Slow performance due overfetching</li>
     <li>Fixed json models</li>
     <li>Graph of objects is needed</li>
 </ul>
+</div>
+<div class="right">
+    ![architecture](facebook_services.png)
 </div>
 
 
