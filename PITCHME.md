@@ -45,9 +45,9 @@
 ### Solution
 ![architecture_new](facebook_services_new.png)
 
-* Use a single API Endpoint
-* Query a graph instead every single Endpoint
-* Select properties to query
+* Single API Endpoint
+* Query a graph, select properties
+
 ---
 @title[How does it work]
 
@@ -62,7 +62,7 @@
 ### Query
 
 Simple hero query
-
+@snap[west]
 ```
 {
   hero {
@@ -74,7 +74,8 @@ Simple hero query
   }
 }
 ```
-Result
+@snapend
+@snap[east]
 ```
 {
   "data": {
@@ -95,6 +96,8 @@ Result
   }
 }
 ```
+@snapend
+
 ---
 
 # Thanks - QA?
