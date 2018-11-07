@@ -27,7 +27,6 @@
 ![architecture](facebook_services.png)
 </div>
 
-<div class="right">
 
 ### Facebook Services
 
@@ -35,8 +34,6 @@
 * Rest endpoints deliver fixed json models
 * Difference between server objects and mobile clients
 * Need for a graph of objects
-
-</div>
 
 
 +++
@@ -62,6 +59,7 @@
 ### Query
 
 Simple hero query
+
 ```
 {
   hero {
