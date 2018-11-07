@@ -3,7 +3,7 @@
 
 # GraphQL
 
-![Logo](logo.svg)
+![Logo](graphql.png)
 
 ---
 @title[Overview]
