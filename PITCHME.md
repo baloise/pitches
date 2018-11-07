@@ -32,13 +32,15 @@
 * Difference between server objects and mobile clients
 * Need for a graph of objects
 
++++
 @title[GraphQL API]
 
 ### Solution
 
 ![architecture](facebook_services_new.svg)
 
-* Build a new API
+* Use a single API Endpoint
+* Query a graph instead every single Endpoint
 
 ---
 @title[How does it work]
