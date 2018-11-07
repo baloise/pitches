@@ -239,7 +239,6 @@ schema {
 
 * Think in Graphs
 * Shared Language
-* Go Iterative
 
 +++
 @title[Implementation]
@@ -273,7 +272,11 @@ schema {
 * Refer to DDD use Ubiquitous Language
 * To build a good schema you need clear business descriptions
 * Shared understanding and consensus of business in team
+---
+@title[DEMO]
 
+### “Talk is cheap. Show me the code.”
+Linus Torvalds
 
 ---
 
