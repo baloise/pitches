@@ -95,7 +95,6 @@
 @ul(false)
 - Droid: GraphQL Object Type
 - id, name, appearsIn and friends: fields on Droid
-- String: build in scalar
 - !: non nullable type
 @ulend
 @snapend
