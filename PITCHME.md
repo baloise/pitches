@@ -94,7 +94,7 @@
 @snap[east]
 @ul(false)
 - Droid: GraphQL Object Type
-- name, appearsIn: fields on Character
+- name, appearsIn: fields on Droid
 - String: build in scalar
 - !: non nullable type
 @ulend
