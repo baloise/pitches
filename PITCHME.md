@@ -31,19 +31,20 @@
 
 ![](rest_architecture.png)
 
-@snap[south-east]
-@ul
-- Overfetching
-- Fixed json models
-@ulend
-@snap[south-east]
-
 @snap[south-west]
 @ul
 - Graph of objects
 - Many Endpoints
 @ulend
-@snap[south-west]
+@snapend
+
+@snap[south-east]
+@ul
+- Overfetching
+- Fixed json models
+@ulend
+@snapend
+
 
 +++
 
@@ -52,17 +53,19 @@
 <h4>Solution</h4>
 @snapend
 
-@snap[west]
+![](graphQl_architecture.png)
+@snap[south-west]
 @ul
 - Single API Endpoint
-- Query a graph
-- Select properties
+- GraphQL as Query-Language
 @ulend
-
 @snapend
 
-@snap[east]
-![](graphQl_architecture.png)
+@snap[south-east]
+@ul
+- Query a graph of objects
+- Select properties
+@ulend
 @snapend
 
 ---
