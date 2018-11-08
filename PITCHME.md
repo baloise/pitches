@@ -29,20 +29,15 @@
 <h4>Facebook Services</h4>
 @snapend
 
+![](rest_architecture.png)
 
-
+@snap[south]
 @ul
 - Overfetching
 - Fixed json models
 - Graph of objects
 @ulend
-
-
-
 @snap[south]
-![](rest_architecture.png)
-@snapend
-
 
 +++
 
