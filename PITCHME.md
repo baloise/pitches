@@ -111,7 +111,7 @@ Query Definition
 {
   type Query {
     hero(episode: Episode): Character
-    droid(id: ID!): Droid
+    droid(id: Int!): Droid
   }
 }
 ```
