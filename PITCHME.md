@@ -208,7 +208,7 @@ mutation {
 
 * CUD operations
 * Multiple Mutations in one operation possible
-* Query your desirable return value
+* Query your desired return values
 
 ---
 @title[Best practices]
