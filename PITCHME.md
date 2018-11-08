@@ -29,7 +29,7 @@
 <h4>Facebook Services</h4>
 @snapend
 
-@snap[west]
+
 
 @ul
 - Overfetching
@@ -37,9 +37,9 @@
 - Graph of objects
 @ulend
 
-@snapend
 
-@snap[east]
+
+@snap[south]
 ![](rest_architecture.png)
 @snapend
 
