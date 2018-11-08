@@ -54,7 +54,7 @@
 @snapend
 
 @snap[west sidebar]
-![](graphQl_architecture.png)
+![ARCH](graphQl_architecture.png)
 @snapend
 
 @snap[east sidebar]
