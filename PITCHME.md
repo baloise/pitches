@@ -288,7 +288,7 @@ type Query {
   getPartner(id: Int):Partner
 }
 type Mutation {
-  createPartner(id: Int!, name: String!, firstName: String!): Partner
+  createPartner(partner: Partner!): Partner
   deletePartner(id: Int!): Partner
 }
 schema {
