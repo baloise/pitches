@@ -61,7 +61,7 @@
 @snapend
 
 @snap[east]
-![](facebook_services_new.png)
+![](graphQl_architecture.png)
 @snapend
 
 ---
