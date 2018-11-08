@@ -91,7 +91,7 @@
 ![ARCH](type.png)
 @snapend
 
-@snap[east sidebar]
+@snap[east]
 @ul(false)
 - Character: GraphQL Object Type
 - name, appearsIn: fields on Character
