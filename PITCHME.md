@@ -166,10 +166,10 @@ Simple hero query
   empireHero: hero(episode: EMPIRE) {
     name
   }
-  jediHero: hero(episode:JEDI){
+  jediHero: hero(episode: JEDI){
     name
   }
-  other: hero(episode:OTHER){
+  other: hero(episode: OTHER){
      name
   }
 }
