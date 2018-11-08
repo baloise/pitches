@@ -105,6 +105,19 @@
 +++
 @title[Query]
 
+Query Definition
+
+```
+{
+  type Query {
+    hero(episode: Episode): Character
+    droid(id: ID!): Droid
+  }
+}
+```
++++
+@title[Query]
+
 Simple hero query
 
 
@@ -168,12 +181,24 @@ Simple hero query
 +++
 @title[MutQuery]
 
+Mutation Definition
+
+```
+type Mutation {
+  createReviewForEpisode(commentary: String!, stars: Int!, episodeId: Int!): Review
+}
+```
++++
+
++++
+@title[MutQuery]
+
 Simple mutation
 
 
 ```
-mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
-  createReview(episode: $ep, review: $review) {
+mutation {
+  createReviewForEpisode(commentary: "This is a great movie!", stars: 5, episodeId: 5) {
     stars
     commentary
   }
@@ -182,7 +207,7 @@ mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
 ```
 {
   "data": {
-    "createReview": {
+    "createReviewForEpisode": {
       "stars": 5,
       "commentary": "This is a great movie!"
     }
