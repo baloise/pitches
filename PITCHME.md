@@ -26,7 +26,7 @@
 @title[Facebook Services]
 
 @snap[north]
-<h4>Facebook Services</h4>
+<h4>Facebook Services 2012</h4>
 @snapend
 
 ![](rest_architecture.png)
@@ -34,7 +34,7 @@
 @snap[south-west]
 @ul
 - Graph of objects
-- Many Endpoints
+- Multiple endpoints
 @ulend
 @snapend
 
@@ -59,10 +59,10 @@
 
 @snap[east sidebar]
 @ul(false)
-- Single API Endpoint
+- Single API endpoint
 - GraphQL as Query-Language
 - Query a graph of objects
-- Select properties
+- Select fields
 @ulend
 @snapend
 
@@ -226,8 +226,8 @@ mutation {
 
 ### API-Design Concepts
 
-* Think in Graphs
-* Shared Language
+* Think in graphs
+* Shared language
 
 +++
 @title[Implementation]
@@ -235,9 +235,9 @@ mutation {
 ### Think in Graphs
 
 * With GraphQL, you model your business domain as a graph
-* Query your Business Objects
+* Query your business objects
 * Which relation does my client need?
-* It is not the same as Database relation
+* It is not the same as database relation
 
 +++
 @title[Implementation]
@@ -258,7 +258,7 @@ mutation {
 
 ### Shared Language
 
-* Refer to DDD use Ubiquitous Language
+* Refer to DDD use ubiquitous Language
 * To build a good schema you need clear business descriptions
 * Shared understanding and consensus of business in team
 
@@ -268,7 +268,7 @@ mutation {
 ### How to start
 
 * Design your schema
-* Choose your Languages
+* Choose your programming language
 
 +++
 @title[Java implementation]
@@ -278,7 +278,7 @@ mutation {
 +++
 @title[Java implementation]
 
-### Schema Type-definition
+### Schema type definition
 
 ```
 type Partner{
@@ -292,7 +292,7 @@ type Partner{
 +++
 @title[Java implementation]
 
-### Schema Query + Mutation + Schema
+### Query + Mutation + schema
 
 ```
 type Query {
@@ -313,13 +313,13 @@ schema {
 ### Schema
 
 * Language independent
-* Service definition similar wsdl
-* Generates typesafety
+* Service definition similar to wsdl
+* Supports schema validation of request
 
 +++
 @title[Java implementation]
 
-### Supported languages
+### Supported programming languages
 
 ![rest](languages.png)
 
