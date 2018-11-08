@@ -189,8 +189,6 @@ type Mutation {
 }
 ```
 +++
-
-+++
 @title[MutQuery]
 
 Simple mutation
