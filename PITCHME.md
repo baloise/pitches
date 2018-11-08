@@ -71,9 +71,26 @@
 
 ### Concepts
 
+* Type
 * Query
 * Mutation
 
++++
+@title[Query]
+### Type
++++
+@title[Query]
+
+It all starts with a Type Definition
+
+@snap[west sidebar]
+```
+type Character {
+  name: String!
+  appearsIn: [Episode]!
+}
+```
+@snapend
 +++
 @title[Query]
 ### Query
