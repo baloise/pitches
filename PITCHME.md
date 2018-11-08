@@ -118,7 +118,7 @@ Query Definition
 +++
 @title[Query]
 
-Simple hero query
+Simple droid query
 
 
 ```
@@ -135,7 +135,7 @@ Simple hero query
 ```
 {
   "data": {
-    "hero": {
+    "droid": {
       "name": "R2-D2",
       "friends": [
         {
@@ -146,17 +146,7 @@ Simple hero query
   }
 }
 ```
-+++
-@title[Parameter]
-### Parameters
 
-```
-{
-  hero(episode: EMPIRE) {
-    name
-  }
-}
-```
 +++
 @title[Alias]
 ### Alias
