@@ -53,16 +53,14 @@
 <h4>Solution</h4>
 @snapend
 
+@snap[west sidebar]
 ![](graphQl_architecture.png)
-@snap[south-west sidebar]
+@snapend
+
+@snap[east sidebar]
 @ul
 - Single API Endpoint
 - GraphQL as Query-Language
-@ulend
-@snapend
-
-@snap[south-east sidebar]
-@ul
 - Query a graph of objects
 - Select properties
 @ulend
