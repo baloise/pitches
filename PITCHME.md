@@ -40,7 +40,7 @@
 @snapend
 
 @snap[east]
-![](facebook_services.png)
+![](rest_architecture.png)
 @snapend
 
 
