@@ -123,7 +123,7 @@ Simple droid query
 
 ```
 {
-  droid {
+  droid(id: 3) {
     name
     # Queries can have comments!
     friends {
