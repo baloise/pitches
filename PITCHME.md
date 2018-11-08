@@ -31,13 +31,19 @@
 
 ![](rest_architecture.png)
 
-@snap[south]
+@snap[south-east]
 @ul
 - Overfetching
 - Fixed json models
-- Graph of objects
 @ulend
-@snap[south]
+@snap[south-east]
+
+@snap[south-west]
+@ul
+- Graph of objects
+- Many Endpoints
+@ulend
+@snap[south-west]
 
 +++
 
