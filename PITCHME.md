@@ -123,7 +123,7 @@ Simple hero query
 
 ```
 {
-  hero {
+  droid {
     name
     # Queries can have comments!
     friends {
