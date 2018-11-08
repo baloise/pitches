@@ -58,7 +58,7 @@
 @snapend
 
 @snap[east sidebar]
-@ul
+@ul(false)
 - Single API Endpoint
 - GraphQL as Query-Language
 - Query a graph of objects
@@ -81,15 +81,23 @@
 +++
 @title[Query]
 
-It all starts with a Type Definition
+@title[GraphQL]
+@snap[north]
+<h4>It all starts with a Type Definition</h4>
+@snapend
+
 
 @snap[west sidebar]
-```
-type Character {
-  name: String!
-  appearsIn: [Episode]!
-}
-```
+![ARCH](type.png)
+@snapend
+
+@snap[east sidebar]
+@ul(false)
+- Character: GraphQL Object Type
+- name, appearsIn: fields on Character
+- String: build in scalar
+- ! -> non nullable type
+@ulend
 @snapend
 +++
 @title[Query]
