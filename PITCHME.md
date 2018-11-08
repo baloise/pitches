@@ -93,10 +93,10 @@
 
 @snap[east]
 @ul(false)
-- Character: GraphQL Object Type
+- Droid: GraphQL Object Type
 - name, appearsIn: fields on Character
 - String: build in scalar
-- ! -> non nullable type
+- !: non nullable type
 @ulend
 @snapend
 +++
