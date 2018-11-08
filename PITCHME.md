@@ -270,7 +270,7 @@ mutation {
 ### Schema type definition
 
 ```
-type Partner{
+type Partner {
   id: Int
   name: String
   firstName: String
