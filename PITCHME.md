@@ -10,8 +10,8 @@
 * Why Kafka
 * What is Kafka
 * Technical View
-* Kafka and Openshift
-* Possible Solutions
+* Deployment View
+* Target Architectures
 * DEMO
 
 ---
@@ -92,6 +92,96 @@
 
 ### Sequences of events (streams) describe how it happened
 
+
+---
+
+---
+@title[Kafka Components]
+
+### Kafka components
+
+* Components
+* The log
+* Connectors
+* Stream processing
+
++++
+
+### High level kafka
+
+![streamingPlatform](images/streamingPlattform.png)
+
++++
+
+### The distributed log
+
+![kafkaLog](images/kafkaLog.png)
+
++++
+
+### Idea of the log
+
+![logIdea](images/logIdea.png)
+
++++
+
+### Consumer position
+
+![consumerPosition](images/consumerLog.png)
+
++++
+
+### Connectors
+
+![kafkaConnectors](images/kafkaConnectors.png)
+
++++
+
+### Input/Output to any data source
+
+![kafkaConnectorsOut](images/kafkaConnectOutput.png)
+
++++
+
+### Stream processing
+
+![streamingEngine](images/streamingEngine.png)
+
++++
+
+### KSQL
+
+![streamingEngine](images/ksql.png)
+
++++
+
+### Java processing
+
+![streamJava](images/streamProcessingJava.png)
+
+---
+@title[DeploymentView]
+
+### Deployment View
+
+* Kafka and zookeeper
+* Strimzi
+
++++
+
+### Cluster config Zookeeper
+
+![streamJava](images/clusterConfig.png)
+
+
+---
+@title[Architectureal view]
+
+### Architectural patterns
+
+* Evolution of software systems
+* Target architectures
+
 +++
 
 ### Evolution of software systems
@@ -106,37 +196,20 @@
 
 ![streams](images/softwareSystemEvolution2.png)
 
----
++++
 
-@title[Technical View]
+### Target Architecture
 
-### High level kafka
 
-![streamingPlatform](images/streamingPlattform.png)
+![streams](images/softwareSystemEvolution2.png)
 
----
++++
 
-### The distributed log
+### Confluent platform
 
-![kafkaLog](images/kafkaLog.png)
 
----
+![streams](images/confluentPlatform.png)
 
-### Idea of the log
-
-![logIdea](images/logIdea.png)
-
----
-
-### Consumer position
-
-![consumerPosition](images/consumerLog.png)
-
----
-
-### Connectors
-
-![kafkaConnectors](images/kafkaConnectors.png)
 
 ---
 
