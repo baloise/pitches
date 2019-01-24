@@ -182,6 +182,14 @@
 
 ![streamJava](images/clusterConfig.png)
 
++++
+
+@snap[north]
+![streamJava](images/strimzi.png)
+@snapend
+
+![streamJava](images/openshiftCluster.png)
+
 
 ---
 @title[Architectureal view]
