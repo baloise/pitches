@@ -9,6 +9,7 @@
 ### Overview
 * Why Kafka
 * What is Kafka
+* Technical View
 * Kafka and Openshift
 * Possible Solutions
 * DEMO
@@ -45,4 +46,37 @@
 
 ![dwh2](images/kafkaCentered.png)
 
+---
+@title[How does it work]
+
+### Concepts
+
+* Events
+* Streaming
+* Event-Driven Development
+
 +++
+
+### Events in everyday life
+
+* Change Address - Move
+* Marriage
+* Get your driving license
+* Start a new work
+
+
+
+---
+
+# Thanks - QA?
+
+---
+
+### Sources
+* [Confluent](https://www.confluent.io/)
+* [4-Years of GraphQL](https://kafka.apache.org/)
+* [GraphQL under the hood](https://about.sourcegraph.com/graphql/graphql-under-the-hood)
+* [Eric-Baer-GraphQL under the hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
+* [graphql-java](https://github.com/graphql-java/graphql-java)
+* [data-loader](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
+
