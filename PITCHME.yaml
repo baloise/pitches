@@ -1,0 +1,4 @@
+#layout : center-right
+footnote : "Apache Kafka Open-X-Day 2019"
+theme-override : css/custom.css
+code-line-numbers : true
