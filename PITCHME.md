@@ -186,11 +186,11 @@
 ![strimziLogo](images/strimzi.png)
 @snapend
 
-@snap[sout-west]
-![streamJava](images/openshiftCluster.png)
+@snap[west sidebar]
+![openshiftCluster](images/openshiftCluster.png)
 @snapend
 
-@snap[south-east]
+@snap[east sidebar]
 @ul
 - Open-Source running Kafka on Kubernetes
 - Kafka as Kubernetes Resource
