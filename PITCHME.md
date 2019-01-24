@@ -64,7 +64,79 @@
 * Get your driving license
 * Start a new work
 
++++
 
+### An event is
+
+* Notification
+* State transfer
+
+
++++
+
+### Events come in streams
+
+
+![streams](images/streams.png)
+
++++
+
+### Stream processing with combine and summarize
+
+
+![streams](images/streamProcessing.png)
+
++++
+
+### Events describe what happened. 
+
+### Sequences of events (streams) describe how it happened
+
++++
+
+### Evolution of software systems
+
+
+![streams](images/softwareSystemEvolution.png)
+
++++
+
+### Evolution of software systems
+
+
+![streams](images/softwareSystemEvolution2.png)
+
+---
+
+@title[Technical View]
+
+### High level kafka
+
+![streamingPlatform](images/streamingPlattform.png)
+
+---
+
+### The distributed log
+
+![kafkaLog](images/kafkaLog.png)
+
+---
+
+### Idea of the log
+
+![logIdea](images/logIdea.png)
+
+---
+
+### Consumer position
+
+![consumerPosition](images/consumerLog.png)
+
+---
+
+### Connectors
+
+![kafkaConnectors](images/kafkaConnectors.png)
 
 ---
 
