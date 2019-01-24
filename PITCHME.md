@@ -13,9 +13,13 @@
 * Target Architectures
 * DEMO
 
----
 
+---
 @title[Why Kafka]
+
+# Why Kafka
+
++++
 
 ### How everything started ...
 ![dwh1](images/firstDwh.png)
@@ -91,6 +95,12 @@
 
 ### Sequences of events (streams) describe how it happened
 
++++
+
+### Sequencing of moves is sometimes more important than end state
+
+
+![streams](images/chessGame.png)
 
 ---
 @title[Kafka Components]
@@ -218,7 +228,7 @@
 ### Evolution of software systems
 
 
-![streams](images/softwareSystemEvolution2.png)
+![streams](images/softwareEvolution3.png)
 
 +++
 
@@ -251,9 +261,12 @@ https://fast-data-dev.demo.landoop.com/
 
 ### Sources
 * [Confluent](https://www.confluent.io/)
-* [4-Years of GraphQL](https://kafka.apache.org/)
-* [GraphQL under the hood](https://about.sourcegraph.com/graphql/graphql-under-the-hood)
-* [Eric-Baer-GraphQL under the hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
-* [graphql-java](https://github.com/graphql-java/graphql-java)
-* [data-loader](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
+* [Kafka](https://kafka.apache.org/)
+* [Strimzi](https://strimzi.io/)
+* [The Future of Applications is Streaming](https://www.ittage.informatik-aktuell.de)
+* [Embrace the Anarchy](https://www.ittage.informatik-aktuell.de)
+* [Apache Kafka - Data Streaming und Messaging in einem](https://www.ittage.informatik-aktuell.de)
+
+### Literature
+![reading](images/furtherReading.png)
 
