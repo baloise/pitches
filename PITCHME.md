@@ -93,14 +93,12 @@
 
 
 ---
-
----
 @title[Kafka Components]
 
 ### Kafka components
 
 * Components
-* The log
+* Log
 * Connectors
 * Stream processing
 
@@ -185,11 +183,20 @@
 +++
 
 @snap[north]
-![streamJava](images/strimzi.png)
+![strimziLogo](images/strimzi.png)
 @snapend
 
+@snap[sout-west]
 ![streamJava](images/openshiftCluster.png)
+@snapend
 
+@snap[south-east]
+@ul
+- Open-Source running Kafka on Kubernetes
+- Kafka as Kubernetes Resource
+- Operator creates Kafka Cluster and Zookeeper
+@ulend
+@snapend
 
 ---
 @title[Architectureal view]
