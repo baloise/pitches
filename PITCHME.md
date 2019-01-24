@@ -1,7 +1,6 @@
 ---
 @title[Apache Kafka]
 
-# Apache Kafka
 ![Logo](images/kafkalogo.png)
 
 ---
@@ -169,7 +168,17 @@
 
 +++
 
-### Cluster config Zookeeper
+### Apache Zookeeper
+
+* Centralized service for distributed systems
+* Provides distributed configuration service
+* Provides synchronization service
+* Provides naming registry
+
+
++++
+
+### Role of zookeeper with kafka
 
 ![streamJava](images/clusterConfig.png)
 
