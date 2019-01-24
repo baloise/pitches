@@ -191,10 +191,10 @@
 @snapend
 
 @snap[east sidebar]
-@ul(false)
-- Open-Source running Kafka on Kubernetes
-- Kafka as Kubernetes Resource
-- Operator creates Kafka Cluster and Zookeeper
+
+* Open-Source- Kafka on Kubernetes
+* Kafka as Kubernetes Resource
+* Operator creates Kafka Cluster and Zookeeper
 @ulend
 @snapend
 
