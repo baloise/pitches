@@ -234,6 +234,14 @@
 
 ![streams](images/confluentPlatform.png)
 
+---
+
+## Demo
+
+### Monitoring Dashboard
+
+https://fast-data-dev.demo.landoop.com/
+
 
 ---
 
