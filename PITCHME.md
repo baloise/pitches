@@ -81,12 +81,6 @@
 
 ![streams](images/streams.png)
 
-+++
-
-### Stream processing with combine and summarize
-
-
-![streams](images/streamProcessing.png)
 
 +++
 
@@ -100,6 +94,13 @@
 
 
 ![streams](images/chessGame.png)
+
++++
+
+### Stock price
+
+
+![streams](images/stock.png)
 
 ---
 @title[Kafka Components]
@@ -169,6 +170,13 @@
 * Detect conditions within a small time period
 * Detection time varies from milliseconds to minutes
 * Alternative names: real-time analytics, streaming analytics or event processing
+
++++
+
+### Stream processing with combine and summarize
+
+
+![streams](images/streamProcessing.png)
 
 +++
 
