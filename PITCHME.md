@@ -56,7 +56,6 @@
 
 * Events
 * Streaming
-* Event-Driven Development
 
 +++
 
@@ -128,6 +127,8 @@
 
 ### Idea of the log
 
+* Kafka Topic
+
 ![logIdea](images/logIdea.png)
 
 +++
@@ -144,6 +145,12 @@
 
 +++
 
+### Sink/Source Connectors
+
+![kafkaConnectors](images/sinkSource.png)
+
++++
+
 ### Input/Output to any data source
 
 ![kafkaConnectorsOut](images/kafkaConnectOutput.png)
@@ -156,9 +163,24 @@
 
 +++
 
+### Stream processing
+
+* Query continuous data
+* Detect conditions within a small time period
+* Detection time varies from milliseconds to minutes
+* Alternative names: real-time analytics, streaming analytics or event processing
+
++++
+
 ### KSQL
 
 ![streamingEngine](images/ksql.png)
+
++++
+
+### Windowed Aggregation
+
+![timeFrames](images/windowTumbling.png)
 
 +++
 
@@ -179,9 +201,10 @@
 ### Apache Zookeeper
 
 * Centralized service for distributed systems
-* Provides distributed configuration service
-* Provides synchronization service
-* Provides naming registry
+* Provides ...
+* ... distributed configuration service
+* ... synchronization service
+* ... naming registry
 
 
 +++
@@ -232,17 +255,25 @@
 
 +++
 
-### Target Architecture
+### Loosely coupled systems
 
 
 ![streams](images/softwareSystemEvolution2.png)
 
 +++
 
-### Confluent platform
+### Real-time Event  Enrichment
 
 
-![streams](images/confluentPlatform.png)
+![streams](images/realTimeEvents.png)
+
++++
+
+### Evolve processing from old system to new
+
+
+![streams](images/evolveProcessing.png)
+
 
 ---
 
@@ -251,6 +282,8 @@
 ### Monitoring Dashboard
 
 https://fast-data-dev.demo.landoop.com/
+
+### Parsys Demo
 
 
 ---
