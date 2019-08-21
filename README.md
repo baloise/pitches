@@ -1,4 +1,4 @@
 # pitches
-[GitPitch](https://github.com/gitpitch/gitpitch#what-is-gitpitch) Slides
+[GitPitch](https://gitpitch.com/baloise/pitches/domain-driven-design#/) Slides
 
-present on [https://gitpitch.com/baloise/pitches/graphql-slides](https://gitpitch.com/baloise/pitches/graphql-slides)
+present on [https://gitpitch.com/baloise/pitches/domain-driven-design](https://gitpitch.com/baloise/pitches/domain-driven-design)

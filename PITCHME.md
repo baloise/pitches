@@ -1,7 +1,7 @@
 ---
 @title[DDD]
 
-# Domain-Driven-Design
+## Domain-Driven-Design
 
 ![Logo](./img/blueBook.jpg)
 
@@ -16,54 +16,22 @@
 ---
 @title[Why DDD]
 
-### Facebook 2012
-![facebook](facebook_loading.jpg)
-
-
-
-+++
-@title[Facebook Services]
-
-@snap[north]
-<h4>Facebook Services 2012</h4>
-@snapend
-
-![](rest_architecture.png)
-
-@snap[south-west]
-@ul
-- Graph of objects
-- Multiple endpoints
-@ulend
-@snapend
-
-@snap[south-east]
-@ul
-- Overfetching
-- Fixed json models
-@ulend
-@snapend
+### Two worlds
+![domainExpert](./img/dev_domainExperts.png)
 
 
 +++
+@title[Why DDD]
 
-@title[GraphQL]
-@snap[north]
-<h4>Solution</h4>
-@snapend
+### Big Ball of Mud
+![](./img/bbom_real.jpeg)
 
-@snap[west sidebar]
-![ARCH](graphQl_architecture.png)
-@snapend
++++
+@title[Why DDD]
 
-@snap[east sidebar]
-@ul(false)
-- Single API endpoint
-- GraphQL as Query-Language
-- Query a graph of objects
-- Select fields
-@ulend
-@snapend
+### Big Ball of Mud in software
+![](./img/bbom.png)
+
 
 ---
 @title[How does it work]
@@ -332,3 +300,46 @@ Linus Torvalds
 * [data-loader](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
 
 
++++
+@title[Facebook Services]
+
+@snap[north]
+<h4>Big Ball of Mud</h4>
+@snapend
+
+![](./img/bbom_real.jpeg)
+
+@snap[south-west]
+@ul
+- Graph of objects
+- Multiple endpoints
+@ulend
+@snapend
+
+@snap[south-east]
+@ul
+- Overfetching
+- Fixed json models
+@ulend
+@snapend
+
+
++++
+
+@title[GraphQL]
+@snap[north]
+<h4>Solution</h4>
+@snapend
+
+@snap[west sidebar]
+![ARCH](graphQl_architecture.png)
+@snapend
+
+@snap[east sidebar]
+@ul(false)
+- Single API endpoint
+- GraphQL as Query-Language
+- Query a graph of objects
+- Select fields
+@ulend
+@snapend
