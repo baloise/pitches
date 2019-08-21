@@ -1,21 +1,20 @@
 ---
-@title[GraphQL]
+@title[DDD]
 
-# GraphQL
+# Domain-Driven-Design
 
-![Logo](graphql.png)
+![Logo](./img/blueBook.jpg)
 
 ---
 @title[Overview]
 ### Overview
-* Why GraphQL
-* How does it work
-* API-Design concepts
-* How to start
+* Why DDD
+* Key Concepts
+* Event Storming
 * DEMO
 
 ---
-@title[Why GraphQL]
+@title[Why DDD]
 
 ### Facebook 2012
 ![facebook](facebook_loading.jpg)
