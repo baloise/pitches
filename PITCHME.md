@@ -41,26 +41,20 @@
 ---
 @title[How does it work]
 
-### Concepts
 
-* Strategic Design 
+### Overview
+
+![](./img/ddd_context.png)
+
++++
+@title[BC]
+
+### Strategic Design
+
 * Ubiquitous Language
 * Bounded Context
-* Tactical Design
+* Context Map
 
-+++
-@title[BC]
-
-### Strategic Design
-
-+++
-@title[BC]
-
-### Strategic Design
-
-* High level picture
-* Ubiquitous Language 
-* Bounded Context
 
 +++
 @title[UL]
@@ -77,10 +71,6 @@
 * Use same terms for same concept
 * Both need the same knowledge about the domain
 
-
-
-
-
 +++
 @title[BC]
 
@@ -88,22 +78,10 @@
 
 
 +++
-@title[Alias]
-### Alias
+### BoundedContext
 
-```
-{
-  empireHero: hero(episode: EMPIRE) {
-    name
-  }
-  jediHero: hero(episode: JEDI){
-    name
-  }
-  other: hero(episode: OTHER){
-     name
-  }
-}
-```
+* A space where the ubiquitous language is valid
+* A standalone place
 +++
 @title[Mutation]
 ### Mutation
