@@ -43,10 +43,24 @@
 
 ### Concepts
 
+* Strategic Design 
 * Ubiquitous Language
-* Strategic Design
 * Bounded Context
 * Tactical Design
+
++++
+@title[BC]
+
+### Strategic Design
+
++++
+@title[BC]
+
+### Strategic Design
+
+* High level picture
+* Ubiquitous Language 
+* Bounded Context
 
 +++
 @title[UL]
@@ -63,10 +77,7 @@
 * Use same terms for same concept
 * Both need the same knowledge about the domain
 
-+++
-@title[BC]
 
-### Strategic Design
 
 
 
