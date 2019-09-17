@@ -32,15 +32,21 @@
 ### Big Ball of Mud in software
 ![](./img/bbom.png)
 
++++
+@title[Why DDD]
+
+### Whats the solution?
+![](./img/boundedContexts.jpg)
 
 ---
 @title[How does it work]
 
 ### Concepts
 
-* Type
-* Query
-* Mutation
+* Ubiquitous Language
+* Bounded Context
+* Strategic Design
+* Tactical Design
 
 +++
 @title[Query]
