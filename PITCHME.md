@@ -44,80 +44,37 @@
 ### Concepts
 
 * Ubiquitous Language
-* Bounded Context
 * Strategic Design
+* Bounded Context
 * Tactical Design
 
 +++
-@title[Query]
-### Type
+@title[UL]
+### Ubiquitous Language
 +++
-@title[Query]
+### One Language for all
+![](./img/uq.png)
 
-@title[GraphQL]
-@snap[north]
-<h4>It all starts with a Type Definition</h4>
-@snapend
-
-
-@snap[west sidebar]
-![ARCH](type.png)
-@snapend
-
-@snap[east]
-@ul(false)
-- Droid: GraphQL Object Type
-- id, name, appearsIn and friends: fields on Droid
-- !: non nullable type
-@ulend
-@snapend
 +++
-@title[Query]
-### Query
+@title[UL_Bullet]
+### Ubiquitous Language
+
+* One common language between developer and domain expert
+* Use same terms for same concept
+* Both need the same knowledge about the domain
+
 +++
-@title[Query]
+@title[BC]
 
-Query Definition
+### Strategic Design
 
-```
-{
-  type Query {
-    hero(episode: Episode): Character
-    droid(id: Int!): Droid
-  }
-}
-```
+
+
 +++
-@title[Query]
+@title[BC]
 
-Simple droid query
+### BoundedContext
 
-
-```
-{
-  droid(id: 3) {
-    name
-    # Queries can have comments!
-    friends {
-      name
-    }
-  }
-}
-```
-```
-{
-  "data": {
-    "droid": {
-      "name": "R2-D2",
-      "friends": [
-        {
-          "name": "Luke Skywalker"
-        }
-      ]
-    }
-  }
-}
-```
 
 +++
 @title[Alias]
