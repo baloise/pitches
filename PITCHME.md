@@ -81,157 +81,40 @@
 ### BoundedContext
 
 * A space where the ubiquitous language is valid
-* A standalone place
+* Deals with large models by dividing them into different Bounded Contexts
+* Define clear boundaries
 +++
-@title[Mutation]
-### Mutation
+@title[cmap]
+### Context Map
 
 +++
-@title[MutQuery]
+@title[cmapdef]
 
-Mutation Definition
+![](./img/contextMap.png)
 
-```
-type Mutation {
-  createReviewForEpisode(commentary: String!, stars: Int!, episodeId: Int!): Review
-}
-```
 +++
-@title[MutQuery]
+@title[cmappoints]
 
-Simple mutation
+### ContextMap
 
+* Strategic Design big picture
+* Define communication/relation between BoundedContexts
+* Show dependencies between contexts
+* Identify bottle-necks
 
-```
-mutation {
-  createReviewForEpisode(commentary: "This is a great movie!", stars: 5, episodeId: 5) {
-    stars
-    commentary
-  }
-}
-```
-```
-{
-  "data": {
-    "createReviewForEpisode": {
-      "stars": 5,
-      "commentary": "This is a great movie!"
-    }
-  }
-}
-```
 +++
-@title[How does it work]
 
-### Mutation
+### Tactical Design
 
-* CUD operations
-* Multiple Mutations in one operation possible
-* Query your desired return values
+#### “The Tactical Design, is a set of technical resources used in the construction of your Domain Model, these resources must be applied to work in a single Bounded Context.”
 
 ---
-@title[Best practices]
-
-### API-Design Concepts
-
-* Think in graphs
-* Shared language
+### Event Storming
 
 +++
-@title[Implementation]
-
-### Think in Graphs
-
-* With GraphQL, you model your business domain as a graph
-* Query your business objects
-* Which relation does my client need?
-* It is not the same as database relation
-
-+++
-@title[Implementation]
-
-### Rest Thinking
-
-![rest](rest_endpoint.png)
-
-+++
-@title[Implementation]
-
-### GraphQL Thinking
-
-![graphql](graphql_endpoint.png)
-
-+++
-@title[Implementation]
-
-### Shared Language
-
-* Refer to DDD use ubiquitous Language
-* To build a good schema you need clear business descriptions
-* Shared understanding and consensus of business in team
 
 ---
-@title[Java implementation]
 
-### How to start
-
-* Design your schema
-* Choose your programming language
-
-+++
-@title[Java implementation]
-
-### Design your schema
-
-+++
-@title[Java implementation]
-
-### Schema type definition
-
-```
-type Partner {
-  id: Int
-  name: String
-  firstName: String
-  gebDate: LocalDate
-  sex: Int
-}
-```
-+++
-@title[Java implementation]
-
-### Query + Mutation + schema
-
-```
-type Query {
-  getPartner(id: Int):Partner
-}
-type Mutation {
-  createPartner(partner: Partner!): Partner
-  deletePartner(id: Int!): Partner
-}
-schema {
-  query: Query
-  mutation: Mutation
-}
-```
-+++
-@title[Implementation]
-
-### Schema
-
-* Language independent
-* Service definition similar to wsdl
-* Supports schema validation of request
-
-+++
-@title[Java implementation]
-
-### Supported programming languages
-
-![rest](languages.png)
-
----
 @title[DEMO]
 
 ### “Talk is cheap. Show me the code.”
@@ -244,54 +127,10 @@ Linus Torvalds
 ---
 
 ### Sources
-* [Graphql Github](https://graphql.github.io/)
-* [4-Years of GraphQL](https://www.graphql.com/articles/4-years-of-graphql-lee-byron)
-* [GraphQL under the hood](https://about.sourcegraph.com/graphql/graphql-under-the-hood)
-* [Eric-Baer-GraphQL under the hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
-* [graphql-java](https://github.com/graphql-java/graphql-java)
-* [data-loader](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
+* [ddd-principles](https://www.amazon.de/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ddd&qid=1568885147&s=books-intl-de&sr=1-3)
+* [ddd-evans](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2DBTY5TLDYZBC&keywords=tackling+complexity&qid=1568885072&s=books-intl-de&sprefix=tackling+compl%2Cenglish-books%2C166&sr=1-2)
+* [ddd-distilled](https://www.amazon.de/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+* [bounded-contexts](https://martinfowler.com/bliki/BoundedContext.html)
+* [context-mapping](https://stefan.kapferer.ch/2018/12/27/context-mapper-a-dsl-for-service-decomposition/)
+* [tactical-design](https://thedomaindrivendesign.io/what-is-tactical-design/)
 
-
-+++
-@title[Facebook Services]
-
-@snap[north]
-<h4>Big Ball of Mud</h4>
-@snapend
-
-![](./img/bbom_real.jpeg)
-
-@snap[south-west]
-@ul
-- Graph of objects
-- Multiple endpoints
-@ulend
-@snapend
-
-@snap[south-east]
-@ul
-- Overfetching
-- Fixed json models
-@ulend
-@snapend
-
-
-+++
-
-@title[GraphQL]
-@snap[north]
-<h4>Solution</h4>
-@snapend
-
-@snap[west sidebar]
-![ARCH](graphQl_architecture.png)
-@snapend
-
-@snap[east sidebar]
-@ul(false)
-- Single API endpoint
-- GraphQL as Query-Language
-- Query a graph of objects
-- Select fields
-@ulend
-@snapend
