@@ -11,7 +11,7 @@
 * Why DDD
 * Key Concepts
 * Event Storming
-* DEMO
+* Q/A
 
 ---
 @title[Why DDD]
@@ -64,6 +64,10 @@
 ![](./img/uq.png)
 
 +++
+### Use the language everywhere
+![](./img/ddd_uq.gif)
+
++++
 @title[UL_Bullet]
 ### Ubiquitous Language
 
@@ -113,12 +117,34 @@
 
 +++
 
----
+### Event Storming
 
-@title[DEMO]
+![](./img/eventstorming.png)
 
-### “Talk is cheap. Show me the code.”
-Linus Torvalds
++++
+@title[cmappoints]
+
+### Event Storming
+
+* Workshop-based method to quickly find out what is happening in the domain of a software
+* Lightweight
+* No support by a computer
+
++++
+
+### Event Storming Notation
+
+![](./img/eventstorming_notation.jpeg)
+
++++
+
+### How to start?
+
+* Use events only at the beginning 
+* Try to focus on "Storming" at the beginning
+* Add Actors next if it is needed
+* Use read-models or screen layouts if you want to focus on UX 
+
 
 ---
 
@@ -133,4 +159,6 @@ Linus Torvalds
 * [bounded-contexts](https://martinfowler.com/bliki/BoundedContext.html)
 * [context-mapping](https://stefan.kapferer.ch/2018/12/27/context-mapper-a-dsl-for-service-decomposition/)
 * [tactical-design](https://thedomaindrivendesign.io/what-is-tactical-design/)
+* [awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
+* [eventstorming-receipe](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 
