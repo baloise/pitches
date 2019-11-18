@@ -1,36 +1,42 @@
 ---
 @title[DDD]
 
-## Domain-Driven-Design
+## Code-Camp DDD-Gruppe
 
 ![Logo](./img/blueBook.jpg)
 
 ---
 @title[Overview]
 ### Overview
-* Why DDD
-* Key Concepts
-* Event Storming
+* Setup
+* Progress
+* Demo
 * Q/A
 
 ---
-@title[Why DDD]
+@title[Domain]
 
-### Two worlds
-![domainExpert](./img/dev_domainExperts.png)
+### Table Tennis Tournament
+[domain](https://www.youtube.com/watch?v=eGOgODy_itg)
 
+
++++
+@title[Team]
+
+### Team
+![](./img/team.jpg)
 
 +++
 @title[Why DDD]
 
-### Big Ball of Mud
-![](./img/bbom_real.jpeg)
+### Plan
+![](./img/storming.jpg)
 
 +++
-@title[Why DDD]
+@title[ContextMap]
 
-### Big Ball of Mud in software
-![](./img/bbom.png)
+### Context Map
+![](./img/contextMap.png)
 
 +++
 @title[Why DDD]

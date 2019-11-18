@@ -1,4 +1,4 @@
 # pitches
-[GitPitch](https://gitpitch.com/baloise/pitches/domain-driven-design#/) Slides
+[GitPitch](https://gitpitch.com/baloise/pitches/ddd-code-camp#/) Slides
 
-present on [https://gitpitch.com/baloise/pitches/domain-driven-design](https://gitpitch.com/baloise/pitches/domain-driven-design)
+present on [https://gitpitch.com/baloise/pitches/ddd-code-camp](https://gitpitch.com/baloise/pitches/ddd-code-camp)
