@@ -3,7 +3,7 @@
 
 ## Code-Camp DDD-Gruppe
 
-![Logo](./img/blueBook.jpg)
+![Logo](./img/ddd.png)
 
 ---
 @title[Overview]
@@ -29,7 +29,7 @@
 +++
 @title[Why DDD]
 
-### Plan
+### Whats the problem?
 ![](./img/storming.jpg)
 
 +++
@@ -53,14 +53,14 @@
 @title[How does it work]
 
 
-### Overview
+### Onion Architecture
 
-![](./img/ddd_context.png)
+![](./img/onion.png)
 
 +++
 @title[BC]
 
-### Strategic Design
+### Stack
 
 * Ubiquitous Language
 * Bounded Context
