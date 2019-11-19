@@ -41,8 +41,12 @@
 +++
 @title[Why DDD]
 
-### Whats the solution?
-![](./img/boundedContexts.jpg)
+### Ubiquitous Language
+* Table: A table tennis table
+* Match: A single match between two opponents on a table
+* 
+* Context Map
+
 
 ---
 @title[How does it work]
