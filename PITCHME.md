@@ -44,8 +44,9 @@
 ### Ubiquitous Language
 * Table: A table tennis table
 * Match: A single match between two opponents on a table
-* 
-* Context Map
+* Player: A table tennis player wo is participating in a match
+* Result: Multiple games and a result of a match
+* Game: A single set in a match
 
 
 ---
