@@ -81,7 +81,7 @@
 ---
 
 # Demo
-
+![qrcode](./img/qrCode.png)
 
 ---
 
