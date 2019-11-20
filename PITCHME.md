@@ -72,8 +72,9 @@
 
 +++
 @title[onion]
-
+@snap[north]
 ### Onion Architecture
+@snapend
 
 @snap[west sidebar]
 ![onion](./img/onion.png)
