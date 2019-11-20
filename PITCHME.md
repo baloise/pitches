@@ -75,7 +75,18 @@
 
 ### Onion Architecture
 
+@snap[west sidebar]
 ![onion](./img/onion.png)
+@snapend
+
+@snap[east sidebar]
+@ul
+- Domain Layer: No technique just plain objects
+- Inversion of control
+- UI, APIs and Databases in outer layers
+@ulend
+@snapend
+
 
 
 +++
