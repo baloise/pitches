@@ -72,7 +72,9 @@
 
 +++
 ### Onion Architecture
----?image=assets/img/onion.png&size=auto 75%&position=bottom
+
++++
+![deployment](./img/onion.png)
 
 +++
 @title[UL]
