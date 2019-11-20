@@ -81,11 +81,9 @@
 @snapend
 
 @snap[east sidebar]
-@ul
-- Domain Layer: No technique just plain objects
-- Inversion of control
-- UI, APIs and Databases in outer layers
-@ulend
+* Domain Layer: No technique just plain objects
+* Inversion of control
+* UI, APIs and Databases in outer layers
 @snapend
 
 
