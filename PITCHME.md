@@ -84,6 +84,16 @@
 
 ![deployment](./img/deployment_pipeline.png)
 
++++
+@title[UL]
+### Learnings
+
+* Its hard to understand the domain ;-) 
+* If you focus on use cases you can deliver
+* If your deployment pipeline is working, you are really productive
+* It helps if your domain expert is nearby
+* Its hard to think in domain language and write non-technical code
+
 
 ---
 
