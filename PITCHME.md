@@ -9,11 +9,14 @@
 @title[Overview]
 ### Overview
 * Setup
-* Progress
+* Execution
 * Demo
 * Q/A
 
 ---
+# Setup
+
++++
 @title[Domain]
 
 ### Table Tennis Tournament
@@ -24,19 +27,23 @@
 @title[Team]
 
 ### Team
-![](./img/team.jpg)
+![team](./img/team.png)
+
+---
+# Execution
+
 
 +++
 @title[Why DDD]
 
 ### Whats the problem?
-![](./img/storming.jpg)
+![storming](./img/storming.jpg)
 
 +++
 @title[ContextMap]
 
 ### Context Map
-![](./img/contextMap.png)
+![contextMap](./img/contextMap.png)
 
 +++
 @title[Why DDD]
@@ -48,113 +55,32 @@
 * Result: Multiple games and a result of a match
 * Game: A single set in a match
 
++++
+@title[stack]
 
----
-@title[How does it work]
+### Technology Stack
 
+![angular](./img/client_server.png)
+
+
++++
+@title[onion]
 
 ### Onion Architecture
 
-![](./img/onion.png)
-
-+++
-@title[BC]
-
-### Stack
-
-* Ubiquitous Language
-* Bounded Context
-* Context Map
+![onion](./img/onion.png)
 
 
 +++
 @title[UL]
-### Ubiquitous Language
-+++
-### One Language for all
-![](./img/uq.png)
+### Sophisticated Deployment Stack
 
-+++
-### Use the language everywhere
-![](./img/ddd_uq.gif)
+![deployment](./img/deployment_pipeline.png)
 
-+++
-@title[UL_Bullet]
-### Ubiquitous Language
-
-* One common language between developer and domain expert
-* Use same terms for same concept
-* Both need the same knowledge about the domain
-
-+++
-@title[BC]
-
-### BoundedContext
-
-
-+++
-### BoundedContext
-
-* A space where the ubiquitous language is valid
-* Deals with large models by dividing them into different Bounded Contexts
-* Define clear boundaries
-+++
-@title[cmap]
-### Context Map
-
-+++
-@title[cmapdef]
-
-![](./img/contextMap.png)
-
-+++
-@title[cmappoints]
-
-### ContextMap
-
-* Strategic Design big picture
-* Define communication/relation between BoundedContexts
-* Show dependencies between contexts
-* Identify bottle-necks
-
-+++
-
-### Tactical Design
-
-#### “The Tactical Design, is a set of technical resources used in the construction of your Domain Model, these resources must be applied to work in a single Bounded Context.”
 
 ---
-### Event Storming
 
-+++
-
-### Event Storming
-
-![](./img/eventstorming.png)
-
-+++
-@title[cmappoints]
-
-### Event Storming
-
-* Workshop-based method to quickly find out what is happening in the domain of a software
-* Lightweight
-* No support by a computer
-
-+++
-
-### Event Storming Notation
-
-![](./img/eventstorming_notation.jpeg)
-
-+++
-
-### How to start?
-
-* Use events only at the beginning 
-* Try to focus on "Storming" at the beginning
-* Add Actors next if it is needed
-* Use read-models or screen layouts if you want to focus on UX 
+# Demo
 
 
 ---
