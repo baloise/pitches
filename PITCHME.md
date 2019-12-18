@@ -8,8 +8,8 @@
 - A little bit of background (45m)
   -  Why version control, why Git?
   -  Nitty-gritty Git 
- - Ready, set ...
-   - prerequisites
+- Ready, set ...
+  - prerequisites
 - ☕
 - go
   - 
@@ -22,12 +22,14 @@
 @title[Why Git]
 ## Why Git?
 
-@snap[north-east span-20]
 @quote[Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.](
 Robert C. Martin)
-@snapend
 
- - [80% of the worlds code](https://www.openhub.net/repositories/compare) and growing
+- [80% of the worlds code](https://www.openhub.net/repositories/compare) and growing
+- faster ( offline )
+- better algorithms
+- matches agile way of working ( ie feature branches)
+
  
 ---
 @title[prerequisites]
