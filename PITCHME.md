@@ -15,11 +15,11 @@
   - 
  
  ---
-@title[Why version control?]
+@title[Why version control]
 ## Why version control?
  
  ---
-@title[Why Git?]
+@title[Why Git]
 ## Why Git?
 
 @snap[north-east span-20]
