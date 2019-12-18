@@ -1,4 +1,4 @@
----?image=https://raw.githack.com/baloise/pitches/template/assets/img/logo-baloise-group.svg
+---?image=https://raw.githack.com/baloise/pitches/letsGitGoing/assets/img/logo-baloise-group.svg
 @title[Baloise logo]
 
 ---
@@ -58,10 +58,10 @@ Robert C. Martin)
 - block chain
 - commit tree
  
----?image=https://raw.githack.com/baloise/pitches/template/assets/img/handout.svg
+---?image=https://raw.githack.com/baloise/pitches/letsGitGoing/assets/img/handout.svg
 @title[git on file system]
 
----?image=https://raw.githack.com/baloise/pitches/template/assets/img/handout2.svg
+---?image=https://raw.githack.com/baloise/pitches/letsGitGoing/assets/img/handout2.svg
 @title[git on file system2]
 
 ---
@@ -130,7 +130,7 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 
 -  hand outs
   - https://github.com/AlexZeitler/gitcheatsheet
-  - https://raw.githack.com/baloise/pitches/template/assets/img/handout2.svg
+  - https://raw.githack.com/baloise/pitches/letsGitGoing/assets/img/handout2.svg
 - further reading
   - https://git-scm.com/book/
   - https://www.atlassian.com/git
