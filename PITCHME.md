@@ -14,11 +14,11 @@
 - go
   - 
  
- ---
+---
 @title[Why version control]
 ## Why version control?
  
- ---
+---
 @title[Why Git]
 ## Why Git?
 
@@ -27,12 +27,12 @@
 Robert C. Martin)
 @snapend
 
- - (80% of the worlds code)[https://www.openhub.net/repositories/compare] and growing
+ - [80% of the worlds code](https://www.openhub.net/repositories/compare) and growing
  
 ---
 @title[prerequisites]
 ## Prerequisites
 
-- (git bash)[https://git-scm.com/downloads] installed
+- [git bash](https://git-scm.com/downloads) installed
 - git config
 - local git folder  
