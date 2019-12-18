@@ -58,6 +58,12 @@ Robert C. Martin)
 - block chain
 - commit tree
  
+---?image=https://raw.githack.com/baloise/pitches/template/assets/img/handout.svg
+@title[git on file system]
+
+---?image=https://raw.githack.com/baloise/pitches/template/assets/img/handout2.svg
+@title[git on file system2]
+
 ---
 @title[prerequisites]
 ## Prerequisites
@@ -65,7 +71,6 @@ Robert C. Martin)
 - [git bash](https://git-scm.com/downloads) installed
 - git config
 - local git folder  
-
 
 ---
 @title[git commands]
@@ -125,6 +130,7 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 
 -  hand outs
   - https://github.com/AlexZeitler/gitcheatsheet
+  - https://raw.githack.com/baloise/pitches/template/assets/img/handout2.svg
 - further reading
   - https://git-scm.com/book/
   - https://www.atlassian.com/git
