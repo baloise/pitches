@@ -14,8 +14,8 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="handout.svg">
+   sodipodi:docname="handout.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="845.17257"
-     inkscape:cy="493.62123"
+     inkscape:zoom="0.7"
+     inkscape:cx="640.93526"
+     inkscape:cy="391.34742"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,24 +54,35 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.10673118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27096779"
+       id="rect815-3"
+       width="213.17857"
+       height="210.15475"
+       x="0.75593781"
+       y="87.223236" />
+    <rect
        style="opacity:1;vector-effect:none;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.42488372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27096779"
        id="rect815"
        width="97.51786"
        height="210.15475"
        x="200.32738"
        y="87.223221" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot817"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
-         id="flowRegion819"><rect
-           id="rect821"
-           width="1050"
-           height="75.714287"
-           x="31.428572"
-           y="35.129375" /></flowRegion><flowPara
-         id="flowPara823">local file system                                    remote</flowPara></flowRoot>    <g
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.3152542"
+       y="105.65829"
+       id="text1497"><tspan
+         sodipodi:role="line"
+         x="8.3152542"
+         y="105.65829"
+         id="tspan1495"
+         style="stroke-width:0.26458332"><tspan
+           x="8.3152542"
+           y="105.65829"
+           id="tspan1493"
+           style="stroke-width:0.26458332">local file system</tspan></tspan></text>
+    <g
        id="layer1-5"
        transform="matrix(-0.09785746,0,0,0.09785746,128.78493,174.83062)">
       <g
@@ -303,17 +314,98 @@
            height="75.714287"
            x="31.428572"
            y="35.129375" /></flowRegion><flowPara
-         id="flowPara823-3"> .git                     .git</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1.9181544,226.90846)"
+         id="flowPara823-3"> .git                     .git</flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot817-3"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion819-8"><rect
-           id="rect821-1"
-           width="1058.5714"
-           height="178.57143"
-           x="31.428572"
-           y="35.129375" /></flowRegion><flowPara
-         id="flowPara823-7">working         staging         local                remote</flowPara><flowPara
-         id="flowPara1133">directory          area        repository         repository</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.60765"
+       y="247.45663"
+       id="text1567"><tspan
+         sodipodi:role="line"
+         x="162.60765"
+         y="247.45663"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1629">local</tspan><tspan
+         sodipodi:role="line"
+         x="162.60765"
+         y="260.68579"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1726">repository</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="214.47993"
+       y="106.41659"
+       id="text1497-4"><tspan
+         sodipodi:role="line"
+         x="214.47993"
+         y="106.41659"
+         id="tspan1495-2"
+         style="stroke-width:0.26458332"><tspan
+           x="214.47993"
+           y="106.41659"
+           id="tspan1493-1"
+           style="stroke-width:0.26458332">remote</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1631"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion1633"><rect
+           id="rect1635"
+           width="133.34013"
+           height="103.03556"
+           x="36.36549"
+           y="597.7312" /></flowRegion><flowPara
+         id="flowPara1637"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="55.496056"
+       y="247.57001"
+       id="text1567-35"><tspan
+         sodipodi:role="line"
+         x="32.187405"
+         y="247.57001"
+         id="tspan1565-2"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"><tspan
+           x="32.187405"
+           y="247.57001"
+           id="tspan1557-6"
+           style="text-align:center;text-anchor:middle;stroke-width:0.26458332">working</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="32.187405"
+         y="260.79916"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1629-8">directory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.09731"
+       y="247.948"
+       id="text1567-8"><tspan
+         sodipodi:role="line"
+         x="105.09731"
+         y="247.948"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1629-0">staging</tspan><tspan
+         sodipodi:role="line"
+         x="105.09731"
+         y="261.17715"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1721">area</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251.76132"
+       y="245.68015"
+       id="text1567-2"><tspan
+         sodipodi:role="line"
+         x="251.76132"
+         y="245.68015"
+         id="tspan1565-33"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">remote</tspan><tspan
+         sodipodi:role="line"
+         x="251.76132"
+         y="258.9093"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1629-5">repository</tspan></text>
+  </g>
 </svg>
