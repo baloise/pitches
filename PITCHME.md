@@ -1,7 +1,8 @@
 ---
 @title[cover]
 # Just a cover slide
-- press arrow down
+- press right arrow
 
----?image=assets/img/logo-baloise-group.svg
+---?image=https://raw.githubusercontent.com/baloise/pitches/template/assets/img/logo-baloise-group.svg
 @title[logo]
+
