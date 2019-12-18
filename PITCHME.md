@@ -1,5 +1,7 @@
-theme-background : [ "black" ]
-theme-headline   : [ "Ubuntu", "white", "none" ]
-theme-byline     : [ "Ubuntu", "#eeeeee", "none" ]
-theme-text       : [ "Ubuntu", "#eCeCeC", "none" ]
-theme-links      : [ "#ffff00", "#00ffff" ]
+---
+@title[cover]
+# Just a cover slide
+- press arrow down
+
+---?image=assets/img/logo-baloise-group.svg
+@title[logo]
