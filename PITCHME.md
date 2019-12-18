@@ -1,0 +1,5 @@
+theme-background : [ "black" ]
+theme-headline   : [ "Ubuntu", "white", "none" ]
+theme-byline     : [ "Ubuntu", "#eeeeee", "none" ]
+theme-text       : [ "Ubuntu", "#eCeCeC", "none" ]
+theme-links      : [ "#ffff00", "#00ffff" ]
