@@ -9,7 +9,7 @@
   -  Why version control, why Git?
   -  Nitty-gritty Git 
 - Ready, set ...
-  - prerequisites
+  - prerequisites (10m)
 - ☕
 - go
   - 
@@ -30,6 +30,33 @@ Robert C. Martin)
 - better algorithms
 - matches agile way of working ( ie feature branches)
 
+---
+@title[Git concepts]
+## Git concepts
+
++++
+@title[change set]
+## change set
+
+- leaves the repo in consistent state
+- author
+- commit message
+
++++
+@title[distributed]
+## distributed
+
+- all important workflows are local
+- can have multiple remotes
+
+
++++
+@title[block chain]
+## block chain
+
+- cryptographic hash
+- block chain
+- commit tree
  
 ---
 @title[prerequisites]
@@ -38,3 +65,66 @@ Robert C. Martin)
 - [git bash](https://git-scm.com/downloads) installed
 - git config
 - local git folder  
+
+
+---
+@title[git commands]
+## git commmands
+
+http://www.ndpsoftware.com/git-cheatsheet.html
+
+---
+@title[Go]
+## go go git ...
+
++++
+@title[hand on]
+## hands on
+
+- init repo
+  - NO-HEAD
+- clone
+- commit
+- tag & branch
+
+... 
+see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
+
+
++++
+@title[integration]
+## integration
+
+- github & travis
+- bitbucket / jenkins
+
+
++++
+@title[more topics]
+
+- .gitignore
+- stashing
+- rebase
+
+---
+@title[clients]
+## clients
+
+- git bash
+- Tortoise
+- SourceTree
+- visual studio code
+- eclipse
+- ungit
+
+- https://dillinger.io/
+
+---
+@title[hand outs & further reading]
+## hand outs & further reading
+
+-  hand outs
+  - https://github.com/AlexZeitler/gitcheatsheet
+- further reading
+  - https://git-scm.com/book/
+  - https://www.atlassian.com/git
