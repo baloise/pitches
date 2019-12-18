@@ -5,16 +5,34 @@
 @title[Agenda]
 ## Let's git going
 
-@ol
-
-- A little bit of background
-  -  Why version control, why git?
-  -  Git internals
+- A little bit of background (45m)
+  -  Why version control, why Git?
+  -  Nitty-gritty Git 
+ - Ready, set ...
+   - prerequisites
 - ☕
-- A lot of practice
-
-@olend
-
+- go
+  - 
  
+ ---
+@title[Why version control?]
+## Why version control?
+ 
+ ---
+@title[Why Git?]
+## Why Git?
 
+@snap[north-east span-20]
+@quote[Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.](
+Robert C. Martin)
+@snapend
 
+ - (80% of the worlds code)[https://www.openhub.net/repositories/compare] and growing
+ 
+---
+@title[prerequisites]
+## Prerequisites
+
+- (git bash)[https://git-scm.com/downloads] installed
+- git config
+- local git folder  
