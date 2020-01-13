@@ -132,3 +132,16 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 - further reading
   - https://git-scm.com/book/
   - https://www.atlassian.com/git
+  
+---
+@title[License & contributions]
+
+Did you know this presentation is also managed in git?
+You can easily contribute under https://github.com/baloise/pitches/blob/letsGitGoing/PITCHME.md
+
+![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)
+
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. 
+
+
+
