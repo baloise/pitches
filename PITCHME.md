@@ -68,9 +68,7 @@ Robert C. Martin)
 @title[prerequisites]
 ## Prerequisites
 
-- [git bash](https://git-scm.com/downloads) installed
-- git config
-- local git folder  
+[Find them](https://github.com/baloise/HelloGit/wiki/Prerequisites) in the wiki
 
 ---
 @title[git commands]
