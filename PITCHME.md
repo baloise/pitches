@@ -136,7 +136,8 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 ---
 @title[License & contributions]
 
-Did you know this presentation is also managed in git?
+Did you know that this presentation is also managed in git?
+
 You can easily contribute under https://github.com/baloise/pitches/blob/letsGitGoing/PITCHME.md
 
 ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)
