@@ -115,12 +115,12 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 @title[clients]
 ## clients
 
-- git bash
-- Tortoise
-- SourceTree
-- visual studio code
-- eclipse
-- ungit
+- [git bash](https://git-scm.com/downloads)
+- [TortoiseGit](https://tortoisegit.org/download/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [ungit](https://github.com/FredrikNoren/ungit/releases)
 
 - https://dillinger.io/
 
