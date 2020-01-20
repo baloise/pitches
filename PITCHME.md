@@ -12,7 +12,7 @@
   - prerequisites (10m)
 - ☕
 - go
-  - 
+  - hands on
  
 ---
 @title[Why version control]
@@ -58,13 +58,13 @@ Robert C. Martin)
 - block chain
 - commit tree
  
----?image=https://raw.githack.com/baloise/pitches/b041a9cbb61562f85741c61cb2c6d32aae827283/assets/img/handout.svg
+---?image=https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/handout.svg
 @title[git on file system]
 
----?image=https://raw.githack.com/baloise/pitches/b041a9cbb61562f85741c61cb2c6d32aae827283/assets/img/handout2.svg
+---?image=https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/handout2.svg
 @title[git on file system2]
 
----?image=https://raw.githack.com/baloise/pitches/b041a9cbb61562f85741c61cb2c6d32aae827283/assets/img/pushfetch.svg
+---?image=https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/pushfetch.svg
 @title[push & fetch]
 
 ---
@@ -72,6 +72,9 @@ Robert C. Martin)
 ## Prerequisites
 
 [Find them](https://github.com/baloise/HelloGit/wiki/Prerequisites) in the wiki
+
+---?image=https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/coffee.svg
+@title[break]
 
 ---
 @title[git commands]
@@ -123,7 +126,7 @@ http://www.ndpsoftware.com/git-cheatsheet.html
 
 -  hand outs
   - https://github.com/AlexZeitler/gitcheatsheet
-  - https://raw.githack.com/baloise/pitches/b041a9cbb61562f85741c61cb2c6d32aae827283/assets/img/handout2.svg
+  - https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/handout2.svg
 - further reading
   - https://git-scm.com/book/
   - https://www.atlassian.com/git
