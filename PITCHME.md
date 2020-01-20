@@ -83,34 +83,26 @@ http://www.ndpsoftware.com/git-cheatsheet.html
 @title[Go]
 ## go go git ...
 
-+++
-@title[hand on]
-## hands on
-
-- init repo
-  - NO-HEAD
-- clone
-- commit
-- tag & branch
-
-... 
-see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
+[hands on](https://github.com/baloise/HelloGit/wiki/Local-Git)
 
 
-+++
+---
+@title[more topics]
+
+## advanced topics
+
+... AKA _things we don't do_
+
+- stash
+- rebase
+
+---
 @title[integration]
 ## integration
 
 - github & travis
 - bitbucket / jenkins
-
-
-+++
-@title[more topics]
-
-- .gitignore
-- stashing
-- rebase
+- fork/pull vs branch/merge
 
 ---
 @title[clients]
@@ -142,6 +134,8 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 Did you know that this presentation is also managed in git?
 
 You can easily contribute under https://github.com/baloise/pitches/blob/letsGitGoing/PITCHME.md
+
+Not sure what license to pick for your own project? Check out the [licensing section of the Baloise Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/#section-licenses).
 
 ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
