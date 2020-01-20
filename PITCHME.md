@@ -58,13 +58,13 @@ Robert C. Martin)
 - block chain
 - commit tree
  
----?image=https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/handout.svg
+---?image=https://raw.githack.com/baloise/pitches/96fdc48435dbe91af260b85793796b210e82b615/assets/img/handout.svg
 @title[git on file system]
 
----?image=https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/handout2.svg
+---?image=https://raw.githack.com/baloise/pitches/96fdc48435dbe91af260b85793796b210e82b615/assets/img/handout2.svg
 @title[git on file system2]
 
----?image=https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/pushfetch.svg
+---?image=https://raw.githack.com/baloise/pitches/96fdc48435dbe91af260b85793796b210e82b615/assets/img/pushfetch.svg
 @title[push & fetch]
 
 ---
@@ -131,7 +131,7 @@ see also https://gist.github.com/ericqweinstein/f124d779ea23347b2216
 
 -  hand outs
   - https://github.com/AlexZeitler/gitcheatsheet
-  - https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/handout2.svg
+  - https://raw.githack.com/baloise/pitches/96fdc48435dbe91af260b85793796b210e82b615/assets/img/handout2.svg
 - further reading
   - https://git-scm.com/book/
   - https://www.atlassian.com/git
