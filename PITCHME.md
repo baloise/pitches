@@ -64,6 +64,9 @@ Robert C. Martin)
 ---?image=https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/handout2.svg
 @title[git on file system2]
 
+---?image=https://raw.githack.com/baloise/pitches/99c3f088e17b5ef3dd39185aaa0e53c36c1a0b38/assets/img/pushfetch.svg
+@title[push & fetch]
+
 ---
 @title[prerequisites]
 ## Prerequisites
