@@ -43,20 +43,19 @@ Robert C. Martin)
 - commit message
 
 +++
-@title[distributed]
-## distributed
-
-- all important workflows are local
-- can have multiple remotes
-
-
-+++
 @title[block chain]
 ## block chain
 
 - cryptographic hash
 - block chain
 - commit tree
+
++++
+@title[distributed]
+## distributed
+
+- all important workflows are local
+- can have multiple remotes
  
 ---?image=https://raw.githack.com/baloise/pitches/853efd9334c4fac8e7b639eb81747e4e4f2152e0/assets/img/handout.svg
 @title[git on file system]
