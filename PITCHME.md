@@ -10,7 +10,7 @@
 ### Overview
 * Why DDD
 * Key Concepts
-* Event Storming
+* Knowledge-Crunching 
 * Q/A
 
 ---
@@ -54,7 +54,6 @@
 * Ubiquitous Language
 * Bounded Context
 * Context Map
-
 
 +++
 @title[UL]
@@ -113,7 +112,9 @@
 #### “The Tactical Design, is a set of technical resources used in the construction of your Domain Model, these resources must be applied to work in a single Bounded Context.”
 
 ---
-### Event Storming
+### Knowledge Crunching
+* Event Storming
+* Domain Storytelling
 
 +++
 
@@ -132,9 +133,11 @@
 
 +++
 
-### Event Storming Notation
+### When to use it?
 
-![](./img/eventstorming_notation.jpeg)
+* Big Picture EventStorming (what happens in my domain?)
+* Feature based Storming (which events are important for my use case?)
+* UI-Modelling (which screen layouts and read models are needed?)
 
 +++
 
@@ -145,6 +148,35 @@
 * Add Actors next if it is needed
 * Use read-models or screen layouts if you want to focus on UX 
 
++++
+
+### Event Storming Notation
+
+![](./img/eventstorming_notation.jpeg)
+
+
++++
+### Domain Storytelling
+
+![](./img/domainStory.png)
+
++++
+@title[cmappoints]
+
+### Domain Storytelling
+
+* Focus on TELLING -> telling a story
+* with Actors
+* work objects
+* and activities
+
++++
+
+### When to use it?
+
+* Focusing on specific use cases
+* Help to create a better understanding
+* Focusing on business processes
 
 ---
 
@@ -161,4 +193,6 @@
 * [tactical-design](https://thedomaindrivendesign.io/what-is-tactical-design/)
 * [awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
 * [eventstorming-receipe](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+* [domainstorytelling](https://domainstorytelling.org/)
+* [domainstory-modeller](https://www.wps.de/modeler/)
 
