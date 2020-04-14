@@ -1,5 +1,5 @@
 #layout : center-right
-footnote : "Domain-Driven-Design Open-X-Day 2019"
+footnote : "Domain-Driven-Design Introduction"
 theme: night
 theme-override : css/custom.css
 code-line-numbers : true
