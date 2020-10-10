@@ -120,7 +120,13 @@ No common set of scopes
 
 ### Components
 
-![oauth2](./img/libraryComponents.png)
+![libComponents](./img/libraryComponents.png)
+
++++
+
+### Components
+
+![libComponents2](./img/libraryComponents2.png)
 
 ---
 
