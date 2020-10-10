@@ -96,11 +96,11 @@ No common set of scopes
 ## Open ID Connect
 @snapend
 
-@snap[west sidebar]
+@snap[west span-40]
 ![oidc](./img/oidc.png)
 @snapend
 
-@snap[east sidebar]
+@snap[east span-60]
 @ul
 - ID token
 - User Info Endpoint
@@ -112,7 +112,16 @@ No common set of scopes
 
 ---
 
-* 
+---
+
+### Sources
+* [OAuth 2.0 and OpenID Connect Video](https://www.youtube.com/watch?v=996OiexHze0)
+* [OAuth 2.0 and OpenID Connect Slides](https://speakerdeck.com/nbarbettini/oauth-and-openid-connect-in-plain-english)
+* [Security-Workshop](https://github.com/andifalk/secure-oauth2-oidc-workshop)
+* [Security-Workshop slides](https://andifalk.github.io/oidc-workshop-spring-io-2019/#/)
+* [Embrace the Anarchy](https://www.ittage.informatik-aktuell.de)
+* [Apache Kafka - Data Streaming und Messaging in einem](https://www.ittage.informatik-aktuell.de)
+
 
 
 
