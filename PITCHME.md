@@ -107,7 +107,14 @@ No common set of scopes
 +++
 
 ---
-
+[drag=40 30, drop=topleft, bg=red]
+## Top left 40x30
+[drop=right]
+- ID token
+- User Info Endpoint
+- OpenID Provider Configuration Information
+[drag=80 30, drop=bottom, bg=yellow]
+## bottom
 ---
 
 ### Sources
