@@ -92,15 +92,11 @@ No common set of scopes
 
 +++
 
-@snap[north]
-## Open ID Connect
-@snapend
-
-@snap[west span-40]
+@snap[west span-50]
 ![oidc](./img/oidc.png)
 @snapend
 
-@snap[east span-60]
+@snap[east span-50]
 @ul
 - ID token
 - User Info Endpoint
