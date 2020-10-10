@@ -15,3 +15,11 @@ Arthur Neudeck, Markus Lindenmann, Roland Seidel, Dane Leube
 * Live-Demo 
 
 ---
+
+## Why OAuth and OIDC?
+
++++
+
+### 10 years ago
+
+![yelp](./img/yelp.png)
