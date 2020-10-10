@@ -1,0 +1,5 @@
+#layout : center-right
+footnote : "OAuth2 and OIDC Digitaltage 2020"
+theme: night
+theme-override : css/custom.css
+code-line-numbers : true
