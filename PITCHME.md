@@ -92,7 +92,7 @@ No common set of scopes
 
 +++
 
-@snap[west span-50]
+@snap[west sidebar]
 ![oidc](./img/oidc.png)
 @snapend
 
