@@ -77,6 +77,13 @@ OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses
 
 +++
 
+### OAuth: What Flow To Choose?
+
+![OAuth2 Select Flows](./img/oauth_grant_flowchart.png)
+(Source: https://developer.okta.com/docs/concepts/oauth-openid/)
+
++++
+
 ### OIDC
 
 How do we publish user infos (e.g. E-Mail, username, etc.)? No standard way to get this information.
