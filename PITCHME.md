@@ -40,21 +40,33 @@ Arthur Neudeck, Markus Lindenmann, Roland Seidel, Dane Leube
 
 Give another site access to my data.
 
+
+
 ---
 
 ## OAuth2 and OIDC
 
 +++
 
-### OAuth2
+## Authentication
 
-OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. IETF OAuth Working Group developed this specification and its extensions.
+Verifies you are who you say you are.
+
+e.g. Username/Password, Login form
 
 +++
 
-### OAuth2 grant flow
+## Authorization
 
-![oauth2](./img/oauth2.png)
+Decides if you have permission to access a ressource
+
+e.g. UserRoles, Access control lists (ACLs)
+
++++
+
+### OAuth2
+
+OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. IETF OAuth Working Group developed this specification and its extensions.
 
 +++
 
@@ -68,19 +80,29 @@ OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses
 * Access token
 +++
 
-### OAuth2 flows
+### OAuth2 grant flow
 
-* Authorization code
-* Implicit (deprecated)
-* Resource owner password credentials
-* Client credentials
+![oauth2](./img/oauth2.png)
 
 +++
 
-### OAuth: What Flow To Choose?
+### When to use
 
-![OAuth2 Select Flows](./img/oauth_grant_flowchart.png)
-(Source: https://developer.okta.com/docs/concepts/oauth-openid/)
+* Untrusted clients
+* Example: Single Page Applications (SPA)
+
++++
+
+### OAuth2 client credentials
+
+![oauth2](./img/client_credentials.png)
+
++++
+
+### When to use
+
+* Internal clients (if you have a secure channel)
+* Example: internal server to server communication
 
 +++
 
@@ -105,22 +127,31 @@ No common set of scopes
 
 @snap[east span-50]
 @ul
-- ID token
+- ID token (added to jwt token)
 - User Info Endpoint
 - OpenID Provider Configuration Information
 @ulend
 @snapend
 
++++
+
+### When to use
+
+* For user authentication
+* Example: Single Sign On (SSO)
+
 ---
 
 ## Example Domain
+
+![library](./img/library.jpg)
 
 +++
 
 ## Library
 
-* Manage books in an inventory
-* Manage users for library
+* Manage books in one or more inventories
+* Manage users for borrowed books
 * Manage borrowed books
 
 +++
@@ -129,11 +160,6 @@ No common set of scopes
 
 ![libComponents](./img/libraryComponents.png)
 
-+++
-
-### Components
-
-![libComponents2](./img/libraryComponents2.png)
 
 ---
 
@@ -151,6 +177,10 @@ No common set of scopes
 
 ## Use Case 3: OIDC
 
++++
+
+## Use Case 4: Client credentials
+
 
 ---
 
@@ -160,6 +190,27 @@ No common set of scopes
 * [OAuth 2.0 and OpenID Connect Slides](https://speakerdeck.com/nbarbettini/oauth-and-openid-connect-in-plain-english)
 * [Security-Workshop](https://github.com/andifalk/secure-oauth2-oidc-workshop)
 * [Security-Workshop slides](https://andifalk.github.io/oidc-workshop-spring-io-2019/#/)
+* [LibraryImage](https://www.timeout.com/news/this-national-emergency-library-is-offering-free-online-access-to-1-4-million-books-042920)
+
++++
+
+## Appendix
+
++++
+
+### OAuth2 flows
+
+* Authorization code
+* Implicit (deprecated)
+* Resource owner password credentials
+* Client credentials
+
++++
+
+### OAuth: What Flow To Choose?
+
+![OAuth2 Select Flows](./img/oauth_grant_flowchart.png)
+(Source: https://developer.okta.com/docs/concepts/oauth-openid/)
 
 
 
