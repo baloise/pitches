@@ -1,5 +1,5 @@
 .reveal img, .reveal section img {
-    border:0px;
+    border:0;
     background-color: transparent;
 }
 
@@ -7,7 +7,7 @@
     display:inline-block;
     width:30%;
     background-color: transparent;
-    border:0px;
+    border:0;
 }
 
 .reveal section img.oauth2 {
@@ -16,7 +16,7 @@
 
 .reveal .smallText{ font-size:60%}
 
-.reveal div.left, .reveal div.eventstorming {
+.reveal div.left {
     left:-8.33%;
     text-align: left;
     float: left;
@@ -27,11 +27,6 @@
 
 .reveal div.left img{
     width:100%;
-}
-
-.reveal div.eventstorming img {
-    height:80%;
-    width:80%;
 }
 
 .reveal div.right {
