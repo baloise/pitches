@@ -187,6 +187,10 @@ No common set of scopes
 
 ## Use Case 4: Client credentials
 
+---
+
+## Wrap Up
+
 
 ---
 
