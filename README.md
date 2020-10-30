@@ -11,7 +11,22 @@
 * *OAuth2*:Dane
 * *OIDC*: Arthur
 * *Live-Demo*: Roland 10' min
-  
+
+## Introduction/ Motivation
+
+* four fearless musketeers started
+  * to do REST on CC 2020
+  * OIDC did turn out to be a key spot
+* We therefore:
+  * played through an OIDC tutorial (2 days)
+  * did setup docker image with Keycloak, Apache DS and MySQL
+  * created a library sample application based on that tutorial and springboot
+  * configured and customized Keycloak (Federated User Service, Github)
+  * added swagger
+  * provisioned everything on OpenShift (co-operation with )
+  * provided an excellent **jump start** for everybody to start with
+* currently Baloise only - but could be public?
+   
 ## OIDC
 
 ### Definition
@@ -42,6 +57,16 @@
 * Password change/ reset easier and faster (only one)
 * propagation also of further person related data
   (address, phone, etc.) relevant for resource owner
+  
+## Summary
+
+* What did you learn today?
+
+* 5 Days CC: Focus on a topic!
+* Awsome cross-team cooperation - although we had Corona
+* a broader understanding of how OIDC, OAuth2, Keycloak, etc work and can be used
+* side-effects: IntelliJ, Springboot, and much more.
+* Thus: CodeCamp, Gold Cards, Innovation - dare it and carry innovation!
   
 ### Bibliography
 * [OIDC CH](https://www.openid.ch/what-is-openid/)
