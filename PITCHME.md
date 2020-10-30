@@ -174,8 +174,6 @@ No common set of scopes
     * [Keycloak-Console link](https://keycloak-okd4-sampleconfig.apps.okd.baloise.dev/auth/admin/master/console/#/realms/workshop) 
     * Clients -> Login-Flows, Rolemapping
     * Identity Provider with Github, User Federation with Ldap
-    * Groups, Sessions, Events
-
     
 +++
 
