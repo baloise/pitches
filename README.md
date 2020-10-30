@@ -7,9 +7,9 @@
 
 ## Responsibilities
 * *Motivation*: Arthur
+* *Example Domain*: Markus
 * *OAuth2*:Dane
 * *OIDC*: Arthur
-* *Problem Domain*: Dane
 * *Live-Demo*: Roland 10' min
   
 ## OIDC
