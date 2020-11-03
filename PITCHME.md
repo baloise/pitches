@@ -84,7 +84,7 @@ OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses
 
 ### OAuth2 code grant flow
 
-![oauth2](./img/oauth2_grant_flow.png)
+![oauth2](./img/oauth2_grant_flow_2.png)
 
 +++
 
