@@ -71,3 +71,16 @@
 ### Bibliography
 * [OIDC CH](https://www.openid.ch/what-is-openid/)
 * [OIDC Home Page](https://openid.net/connect/)
+
+## 10/30/2020, Feedback
+* all on camera
+* outstanding Demo
+* merge slides and URls
+* check camera position/ focus
+* disable all notification
+* some spice into the presentation? Story telling, joke, analogies
+
+### Feedback
+* Azure Integration!
+* open Browser network Tab, preserve logs
+* JWT token
