@@ -10,3 +10,4 @@ You probably came for https://raw.githubusercontent.com/baloise/pitches/OpenByDe
 * https://about.gitlab.com/handbook/total-rewards/compensation/
 * https://todogroup.org/guides/
 * https://github.com/baloise/dashboard-plus
+* https://github.com/baloise/baloise.github.io/blob/master/design/OpenByDefault.adoc
