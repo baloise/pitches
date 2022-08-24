@@ -1,1 +1,3 @@
-[present on gitpitch](https://gitpitch.com/baloise/pitches/letsGitGoing)
+# 301 Moved Permanently
+
+Location: https://github.com/baloise/reveal.js/tree/letsGitGoing
